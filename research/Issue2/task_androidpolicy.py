@@ -9,7 +9,7 @@ def start():
         name="androidpolicy",
         src_url="https://www.androidpolice.com/",
         url_ptn=r'https?://www\.androidpolice\.com/\d{4}/\d{1,2}/\d{1,2}/[^/]+/?$',
-        #test_run=10
+        test_run=10
     )
     st = datetime.now()
     print(f"Start working at {st.strftime('%Y-%m-%d/%H:%M:%S')}!")    

@@ -9,7 +9,7 @@ def start():
         name="androidcentral",
         src_url="https://www.androidcentral.com/",
         url_ptn=r'https?://www\.androidcentral\.com/[^/]+$',
-        #test_run=10
+        test_run=10
     )
     st = datetime.now()
     print(f"Start working at {st.strftime('%Y-%m-%d/%H:%M:%S')}!")    

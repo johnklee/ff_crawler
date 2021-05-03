@@ -9,7 +9,7 @@ def start():
         name="xdadev",
         src_url="https://www.xda-developers.com/",
         url_ptn=r'https?://www\.xda-developers\.com/[^/]+/?$',
-        #test_run=10
+        test_run=10
     )
     st = datetime.now()
     print(f"Start working at {st.strftime('%Y-%m-%d/%H:%M:%S')}!")    

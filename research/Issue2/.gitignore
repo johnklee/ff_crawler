@@ -1,0 +1,9 @@
+androidcentral_cache/*
+androidcentral_pages_output/*
+androidpolicy_cache/*
+androidpolicy_pages_output/
+xdadev_cache/
+xdadev_pages_output/
+androidcentral_pc_dict.pkl
+androidpolicy_pc_dict.pkl
+xdadev_pc_dict.pkl
