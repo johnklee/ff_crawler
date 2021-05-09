@@ -1,0 +1,7 @@
+https://www.reddit.com/r/GooglePixel/comments/mt2ano/pixel_5_audio_issue_during_video_calls/
+
+Pixel 5 audio issue during video calls.
+
+Does anybody have a resolution to this issue?  Audio does not work during video calling in messenger, meet, duo etc? Works fine in messenger on voice only. Camera records video with audio fine, and recorder works fine.  
+
+Any help appreciated :)

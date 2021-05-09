@@ -1,0 +1,5 @@
+https://www.reddit.com/r/GooglePixel/comments/n16v38/issue_with_pixel_3_xl_android_auto/
+
+Issue with pixel 3 xl android auto
+
+Just bought a Vauxhall Corsa and getting poor sound from my Google assistant when connected via Android auto. The sound quality from Spotify or phone calls are fine but my Google assistant when giving directions or speaking is muffled. Have tested with different USB cables and no changes, strange thing is my brother's phone (also android) works perfectly fine. I have disabled usb audio routing to no avail. I think the issue is with the audio coming through usb as all audio via Bluetooth works fine.

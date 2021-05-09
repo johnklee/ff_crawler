@@ -1,0 +1,7 @@
+https://www.reddit.com/r/GooglePixel/comments/mwkx0i/ringtone_alarm_issue/
+
+Ringtone / Alarm issue
+
+I've found nothing on this, as most people report it as outright not working. Got a secondhand Pixel 3a XL the other day and found that for some reason, my ringtone and alarm can only be heard if my Bluetooth earbuds are connected.  Anyone else have this issue? Were you able to figure out how to get it to sound through the internal speakers? (I guess this could be a tip for those reporting the same features outright not working -- try connecting to  Bluetooth headphones / speakers, might start working.)
+
+EDIT: After further testing, I have determined it's a hardware failure. Bottom speakers aren't firing. Phone was refurbed, so I'm contacting the seller regarding repair. Thankfully they included a one year warranty for any defects.

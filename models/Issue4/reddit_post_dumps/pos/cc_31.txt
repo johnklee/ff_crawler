@@ -1,0 +1,9 @@
+https://support.google.com/pixelphone/thread/89736239/bluetooth-issues-w-jbl-flip-5-pixel-5?hl=en
+
+Bluetooth issues w/JBL Flip 5 & Pixel 5
+
+My new Pixel 5 is connecting horribly to the JBL Flip 5 with frequent pops and cutouts even when playing downloaded content in YT Music or Amazon Music. I just updated the Flip 5 to the latest firmware (0.5.6) and the Pixel is up to date. The Flip 5 worked fine with my previous Pixel 2, and the Pixel 5 send to work done with other bluetooth devices, to include JBL wireless headphones.
+
+ETA: Per other BT troubleshooting I saw on the forum, I used the developer options to set the Bluetooth version to 1.4, but it didn't help. I then tried it in airplane mode, which was fine, and then with data active, which was also fine. The problem only seems to happen when the phone is on Wi-Fi, if that helps with the diagnosis.
+
+I also verified that this works fine on my wife's Pixel 5, so it may just be an issue with my phone itself.

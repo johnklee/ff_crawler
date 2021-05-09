@@ -1,0 +1,5 @@
+https://www.reddit.com/r/GooglePixel/comments/n6a2i0/swipe_up_to_see_apps_works_only_sometimes/
+
+Swipe up to see apps works only sometimes
+
+I've got a month old Pixel 4a and I've been having problems. The biggest one is that swiping up to see all apps only works intermittently. Rebooting doesn't help. Updating software doesn't either. The phone "knows" I am trying to because it shows this blue dot to help me swipe up after repeated failed attempts. Am I alone here?

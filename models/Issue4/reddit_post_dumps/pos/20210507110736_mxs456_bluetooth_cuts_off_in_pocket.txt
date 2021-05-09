@@ -1,0 +1,5 @@
+https://www.reddit.com/r/GooglePixel/comments/mxs456/bluetooth_cuts_off_in_pocket/
+
+Bluetooth cuts off in pocket
+
+I'm aware there's multiple posts about this on this subreddit, but has anyone found a solution? As soon as I put the phone in my pocket, the audio begins to crackle. I have deduced that this is an issue with my phone, I've had three separate pairs of new Bluetooth earbuds, all of them had issues at this phone. After the third brand new pair not working in my pocket yesterday, I decided to try it on my friend's S20 and I could walk all the way into another room. I can't get more than 3 ft from my phone without losing connection entirely. Turns out all my previous pairs were working fine, it's my phone. I've tried clearing the Bluetooth cache and turning off and on exhaustively, does anyone have any success stories? I have the Pixel 3 XL and I'm hearing for some that that's not an issue for everyone with the phone. I don't think it's an update either since this has been a problem for a year now.

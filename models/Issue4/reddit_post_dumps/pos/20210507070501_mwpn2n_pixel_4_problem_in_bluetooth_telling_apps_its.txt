@@ -1,0 +1,20 @@
+https://www.reddit.com/r/GooglePixel/comments/mwpn2n/pixel_4_problem_in_bluetooth_telling_apps_its/
+
+Pixel 4 - problem in Bluetooth telling apps it's connected/disconnected? Or problem in apps?
+
+I have Pixel 4 with Android 11. I've noticed recently (actually might be an issue for the recent year or two) that sometimes, apps I have that should trigger by BT being connected/disconnected - don't always get triggered:
+
+1. In the past, I had tried many music players which failed to start playing music right when I'm connected via BT to my car. Today I use [Musicolet](https://play.google.com/store/apps/details?id=in.krosbits.musicolet&hl=en&gl=US), and even this one sometimes fail to start playing.
+2. In the past, I used an app ("Find Bluetooth Devices", [here](https://play.google.com/store/apps/details?id=com.ellevsoft.findbluetoothdevices&hl=en&gl=US)) to remember where I've parked, by remembering BT state changes. I've noticed that over the past year, it sometimes fails to do it. So I also tried another one ("Parking", [here](https://play.google.com/store/apps/details?id=il.talent.parking)), and this one also sometimes fails.
+
+Is there some known issue of Bluetooth as a trigger on Pixel 4, or in general?
+
+I've read many issues related to Bluetooth, but not sure if this is one of them.
+
+Is it perhaps some new restriction on Android, that could cause apps not to wake up due to this trigger?
+
+&#x200B;
+
+\----
+
+EDIT: About the parking apps, seems they fail in getting the location, but the timing seems correct. Very odd.

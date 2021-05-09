@@ -1,0 +1,7 @@
+https://www.reddit.com/r/GooglePixel/comments/n76psu/pixel_2_xl_notification_led/
+
+Pixel 2 XL notification LED
+
+The main reason I got a Pixel 2 XL was for the notification LED for messages and phone calls. After installing Light Flow Legacy the best I can get it to do is show LED notifcations for calls consistenly but message LED notifcations work only occasionally. I can get them to show in the app under the test section however.
+Is there any way to get the nofication LED to show consistently for messages? If not I am going to return the phone.
+UPDATE: The LED will blink once when the message comes in and then turns off.

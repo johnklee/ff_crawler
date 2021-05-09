@@ -1,0 +1,9 @@
+https://www.reddit.com/r/GooglePixel/comments/mu9612/pixel_3a_poppingcrackle_noise_from_videos_and/
+
+Pixel 3a popping/crackle noise from videos and music
+
+So I was finding that the speaker of the pixel 3a makes a popping noise from its speaker when playing a YouTube video or playing music from Spotify. I originally thought it was a hardware defect but to my surprise it makes the same noise from multiple multiple bluetooth speakers which tells me that this is a software issue.
+
+Also tried factory resetting, my device is with Koodo mobile in Canada and on latest firmware from Google.
+
+Anyone else having the same issue?

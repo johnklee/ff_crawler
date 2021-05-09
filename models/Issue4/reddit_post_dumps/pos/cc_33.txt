@@ -1,0 +1,5 @@
+https://support.google.com/pixelphone/thread/87492830/bluetooth-connection-issues-on-my-car?hl=en
+
+Bluetooth connection issues on my car
+
+Since the Android 11 upgrade my phone has been a big disappointment when it comes to Bluetooth connectivity especially with my car. My music intermittently stops from time to time and I have noticed its worse when you lock the device, it also happens with my headphones but not to the degree I see on my car. Now I have tried almost everything from restarting, rebooting, removing apps and the likes. I am really out of sorts now. This started just after the Android 11 update and I had never had this issue.

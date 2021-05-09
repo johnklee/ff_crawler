@@ -1,0 +1,9 @@
+https://www.reddit.com/r/GooglePixel/comments/n6cvh2/the_pixel_stand_might_be_the_worst_waste_of_money/
+
+The Pixel Stand might be the worst waste of money I've ever spent on a tech product.
+
+I've used tons of Google products and I've had some issues with them just like everyone else has, but I don't think I've ever actually regretted buying one since the LTE Galaxy Nexus... until the Pixel Stand. The charging speed is consistently atrocious, and the Pixel-specific features are questionable useful at best. I got this thing for half off and I still feel ripped off.
+
+I average around 450 mA charging speed regardless of the charging brick, charging cable, or outlet that I use, and regardless of whether or not there's a case on the phone. Un/re-pairing the Stand from my phone occasionally helps a little for a brief period of time, but the charging time always tanks quickly. 
+
+Here's a recent Ampere screen shot: https://i.imgur.com/tt3Zc2E.png

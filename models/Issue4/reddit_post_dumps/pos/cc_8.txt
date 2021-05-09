@@ -1,0 +1,7 @@
+https://forums.tesla.com/discussion/169459/pixel-4-and-model-3-bluetooth-issues
+
+Pixel 4 and Model 3 Bluetooth Issues
+
+I got a new phone around the same time I got a software update, so not sure which introduced the issue. For some reason my (new) Pixel 4 XL no longer auto-connects to the car bluetooth. This was never an issue with my Galazy S9 so I assume it's the phone. Since then every morning, BT is not connected, and what's strange is that trying to connect via the phone doesn't work. I need to go into the car's BT settings, select the device and click connect. Works almost instantly, every time.
+
+I guess it's unlikely I'll get anyone with a similar issue since the phone is so new, but just in case... thanks!

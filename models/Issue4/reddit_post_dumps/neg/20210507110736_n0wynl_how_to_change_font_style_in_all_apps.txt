@@ -1,0 +1,5 @@
+https://www.reddit.com/r/GooglePixel/comments/n0wynl/how_to_change_font_style_in_all_apps/
+
+How to change font style in all apps ?
+
+I see that you can change apps icon shapes and font style but it only applies to the lock screen and home screen. Notification still have the default font. What is the point of changing the font style if it applies to these two things ?

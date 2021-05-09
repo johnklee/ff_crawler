@@ -1,0 +1,11 @@
+https://www.reddit.com/r/GooglePixel/comments/n6j9nu/in_the_messages_app_is_there_a_way_to_auto_filter/
+
+In the Messages app is there a way to auto filter to spam any text messages that contain a specific text?
+
+I noticed that every single text that gets through the spam filter that should be filtered out as spam on my Pixel 4a contains an opening to the text like
+
+`// @`
+`Some message`
+
+
+If there's a way to filter out messages beginning with that // @ then I'd see virtually no spam texts. I guessing there isn't but thought it was worth seeing to make sure. Thank you!

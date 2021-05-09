@@ -1,0 +1,9 @@
+https://www.reddit.com/r/GooglePixel/comments/n7vg59/can_i_add_extra_authentication_step_to_my_gmail/
+
+Can I add extra authentication step to my Gmail and Gdrive on Pixel / android phone?
+
+Basically, woke up to a realization that my Google mail, Docs and Drive are all in the open once my phone is unlocked. Sure handy in day-to-day life, but if my routine changes, I'd appreciate having the requirement to enter my credentials every time, just like on old school desktops. 
+
+I've read on 2FA, Authy app and Yubikey, but those seem to target unauthorized access on the initial sign-in, where's what I am looking for is more  a way to protect certain apps in case someone gets their hands on my unlocked phone. Especially since Google apps are logged in by default, unlike say a banking app. 
+
+Did anyone else have this concern and what are the options?

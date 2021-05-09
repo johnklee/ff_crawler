@@ -1,0 +1,9 @@
+https://www.reddit.com/r/GooglePixel/comments/mz9c7k/is_there_a_way_to_selectively_backup_only_camera/
+
+Is there a way to selectively backup only "camera photos" in original quality?
+
+Since I can't backup in original quality anymore, I'm wondering if there's a way to backup STRICTLY my actual camera-photos from my pixel to google photos, and everything else backed up set to "high quality"? Since I have unlimited high quality backups
+
+That means my backed up photos from screenshots/messenger/hangouts/snapchat/etc all being high quality and backed up automatically: while photos and videos taken from my phone will be backed up in original. 
+
+I know you can obviously manually do this, but I'm wondering if there's a way to automate the process. All I see is one over-encompassing setting to backup in either original or high quality.

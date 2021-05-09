@@ -1,0 +1,7 @@
+https://www.reddit.com/r/GooglePixel/comments/n62ix8/remove_the_linked_search_history_between_my/
+
+Remove the "linked" search history between my desktop chrome and my phone?
+
+Hi, i've been noticing lately that my PIXEL actually has the built in search history that my PC has when I use chrome, it even gives me the option to add my credit card info in one-click and I never asked for that.
+
+Is there anyway to disable that or have separate search history between my phone and my computer?

@@ -1,0 +1,27 @@
+https://www.reddit.com/r/GooglePixel/comments/n7ugov/how_to_fix_pixel_4a_multitouch_bug/
+
+How to fix Pixel 4a multi-touch bug?
+
+I bought my brand new pixel 4a direct from Google last September. I somehow lost my multitouch (only one finger's touch control is allowed) during a MOBA game gameplay two months ago. The issue is extremely disturbing especially during gaming.
+
+The situation is quite weird for my multitouch sometimes works as new. I can't figure out why it's malfunction and why it's normal. Sometime the issue is solved by restarting my phone or wiping my screen and sometimes these method doesn't help at all. However the issue is somehow gone for a period of time without doing anything particular.
+
+I once suspected that the malfunction occur due to screen over heat or dirty screen. But it might not be the case since the malfunction still occurs when my screen is clean and cool.
+
+I found several threads and comments reporting the exact same screen issue.
+
+[https://www.reddit.com/r/GooglePixel/comments/mef8h0/wth\_is\_going\_on\_with\_the\_multitouch\_4a/](https://www.reddit.com/r/GooglePixel/comments/mef8h0/wth_is_going_on_with_the_multitouch_4a/)
+
+[https://www.reddit.com/r/GooglePixel/comments/lj7090/pixel\_4a\_5g\_multitouch\_not\_working/](https://www.reddit.com/r/GooglePixel/comments/lj7090/pixel_4a_5g_multitouch_not_working/)
+
+[https://www.reddit.com/r/GooglePixel/comments/n5pjju/pixel\_4a\_5g\_touch\_sensitivity\_in\_corners\_broken/](https://www.reddit.com/r/GooglePixel/comments/n5pjju/pixel_4a_5g_touch_sensitivity_in_corners_broken/)
+
+[https://www.reddit.com/r/GooglePixel/comments/kxk460/touch\_issues\_pixel\_5/](https://www.reddit.com/r/GooglePixel/comments/kxk460/touch_issues_pixel_5/)
+
+[https://www.reddit.com/r/GooglePixel/comments/kolo4g/pixel\_5\_corners\_unresponsive\_intermittently/](https://www.reddit.com/r/GooglePixel/comments/kolo4g/pixel_5_corners_unresponsive_intermittently/)
+
+Therefore, I believe it is a general problem caused by Google software update or settings, and it is happening both on pixel 4a and pixel 5.
+
+Is there any related system or patch update? I've updated to the latest one(May) and it doesn't help at all which is quite disappointing.
+
+As I mentioned above, I tried several methods and none of them work constantly. The best I can do is install "touchscreen repair" app and lower the screen reaction time to simulate multi-touch by changing my fingers very quickly.

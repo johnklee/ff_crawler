@@ -1,0 +1,5 @@
+https://www.reddit.com/r/GooglePixel/comments/n7m4p4/pixel_ambient_display_with_live_wallpaper/
+
+pixel ambient display with live wallpaper
+
+it's extremely cool how these things look, but it basically stays showing the wallpaper for a little bit, then fades away and only shows time, how can i make it to where the wallpaper stays like [this](https://imgur.com/gallery/IqMRY25) the whole time?

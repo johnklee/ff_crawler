@@ -1,0 +1,9 @@
+https://support.google.com/pixelphone/thread/101406195/pixel-4a-bluetooth-keeps-stopping-error-message-every-few-seconds?hl=en
+
+Pixel 4a 'bluetooth keeps stopping' error message every few seconds
+
+I have seen several posts on this issue from previous Pixels and on previous Android versions, but currently I have the Pixel 4a on Android 11 and since a couple of days my bluetooth has gone haywire.
+
+ Every couple of seconds it shows me the 'Bluetooth has stopped' error message, sometimes crashing the phone completely or giving me a consecutive error message. 
+
+So far I have tried clearing all caches and ultimately a factory reset. Surprisingly, after the factory reset, the issue was gone for about a day before it came back. What on earth is happening here? Is it software, hardware? What can I do?

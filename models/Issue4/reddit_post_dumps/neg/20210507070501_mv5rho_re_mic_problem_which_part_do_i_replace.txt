@@ -1,0 +1,10 @@
+https://www.reddit.com/r/GooglePixel/comments/mv5rho/re_mic_problem_which_part_do_i_replace/
+
+re: mic problem - which part do i replace?
+
+Hiya,  
+I'm finally accepting that this hardware problem is what's affecting my phone, model 2P2100. I was working on a long post about the list of things I tried and then I kind of ran out of steam when I started seeing all the info about the audio codec problem. I bought this phone because of its repairability score, anyway.   
+But what part am I replacing, the mic board or the PCB? Where's the chip that needs to be reflowed (or, in 2021, replaced)? Am I looking for [this (mic board)](https://www.ebay.com/itm/Mic-Board-PCB-Microphone-Google-Pixel-XL-2PW2100-SAME-DAY-SHIP-CA/264273915486) or [this?](https://www.ebay.com/itm/Flex-Cable-Charge-Port-PCB-Ribbon-for-Google-Pixel-XL-Ribbon-Charging-Repair-/372147165472)   
+I assume it's the mic board, but I wanted to do due diligence (which for me is posting here lol) before I buy anything. 
+
+Thanks for your time yall.

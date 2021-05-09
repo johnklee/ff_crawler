@@ -1,0 +1,9 @@
+https://www.reddit.com/r/GooglePixel/comments/jo8x3d/wear_os_freezing_during_connection/
+
+Wear OS freezing during connection?
+
+Hi all, I recently switched to a Pixel 5 from my old trusty 2XL, and I'm trying to switch over my Fossil Sport smartwatch to my new phone.
+
+Unfortunately, I'm having an issue where when I try connecting my watch to my pixel, the watch gets stuck at the pairing screen, when it shows a 6-digit string and "pixel 5 would like to connect". My phone shows the matching pairing prompt as expected, but the watch doesn't show the usual ✓ and X icons on its pairing prompt.
+
+When I accept the prompt on my phone it tries continuing like normal, moving to the "getting information from your watch, may take a few minutes" screen, but the watch stays at the pairing prompt screen and nothing happens. It's been over an hour and my phone is still "getting information" with no results. This is the third attempt with pairing my watch to the 5 and I'm starting to lose faith that this watch will work with the 5.

@@ -1,0 +1,13 @@
+https://www.reddit.com/r/GooglePixel/comments/n1x1gd/how_does_google_determine_that_a_call_is_a_spam/
+
+How does Google determine that a call is a "spam call"?
+
+I ask because lately my Pixel 3a has been letting a *ton* of spam calls through as legitimate calls. This happens most often when the transcript reveals that the call was about my car's extended warranty on a spoofed phone number - to me, it looks obviously like a spam call, but for some reason Google hasn't been recognizing these as spam calls lately. Is there something else going on? Are they looking at something that I'm not privy to?
+
+**edit:** So I took a deep dive of my phone's call records to see if my feelings were substantiated.
+
+Of 144 spam calls that I've gotten in the past 4 months, Google only actually made a determination to hang up or put the call through 37 times. Of those times, 19 times they rejected the call and 18 times they accepted the call. So it's virtually 50/50 on whether or not Google will make the correct decision to reject a spam call. Kind of disappointing, but surprised to see that the simple act of screening the call in the first place will keep spam calls out so often - 61 phone calls effectively screened just by having it on, mostly because they end up just hanging up. (For those curious, the remaining 46 calls are calls that I intervened in and screened or declined myself, or couldn't determine from the log whether or not I ended the call or Google did. In the future I'm not going to intervene in spam calls at all and allow Google to do everything so I can gather more accurate data.)
+
+My feeling that Google has been letting spam calls go through more often were incorrect; it turns out I've just gotten more spam calls in the month of April than I received in January, February, and March combined. Call volume is up.
+
+Still, a 50% ratio on the determination is not really a good job. I hope they are able to improve this with time.

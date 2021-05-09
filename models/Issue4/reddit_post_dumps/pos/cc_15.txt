@@ -1,0 +1,18 @@
+https://en.deezercommunity.com/android-47/pixel-4xl-connectivity-via-bluetooth-problems-65542
+
+Pixel 4XL Connectivity via Bluetooth Problems
+
+Hello,
+
+Hope you are well.
+
+Config:
+
+Pixel 4XL with all current updates applied
+Deezer app v6.2.4.98 downloaded approx 3GB of compact music
+Toyota Prius Touch 2 with Nav / latest 2020v1 map update / gracenote are installed.
+I’ve noticed odd behavior with this combination. When I start playing music the track details come across but within a few sec everything is shown as unknown on in-car screen. The app responds to forward / back controls as expected. It makes not difference if I’m in “offline” mode or whether music is shuffled or I’m playing an album.
+
+I’ve already unpaired / reset the media unit and it made no difference. Has anyone else seen something similar, any suggestions?
+
+Thanks

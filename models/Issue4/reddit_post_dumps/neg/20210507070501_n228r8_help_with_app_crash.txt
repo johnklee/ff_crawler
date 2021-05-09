@@ -1,0 +1,6 @@
+https://www.reddit.com/r/GooglePixel/comments/n228r8/help_with_app_crash/
+
+Help with App crash!
+
+So i have been using pixel 4a for over three months. I know that pixel have excellent RAM management. But when i go without restarting my phone for two weeks or so, suddenly one day all apps wont open/ crashes. When i click on the app, the splash screen appears and quickly closes itself. It happens for every app there's
+ Im sure this problem will be solved by restarting but I just want to know if it happens to everyone or is it just me? also i close every apps whenever they are not in use. I dont overload apps or multi task. Hope I get answers for vast people. And no im not talking about webview(updated it).

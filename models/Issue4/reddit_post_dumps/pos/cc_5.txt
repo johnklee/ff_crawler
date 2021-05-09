@@ -1,0 +1,5 @@
+https://forums.garmin.com/sports-fitness/cycling/f/edge-830/249356/bluetooth-issues-with-pixel-5-phone
+
+Bluetooth issues with Pixel 5 phone
+
+On around half of my rides bluetooth disconnects after around 30 to 60 mins. The 830 phone settings go in to searching mode but fail to connect unless I turn bluetooth off and on again. This was not a problem with my old Pixel 3 phone. Anyone else seeing this?

@@ -1,0 +1,5 @@
+https://www.reddit.com/r/GooglePixel/comments/msz66r/pixel_1_xl_screen_turning_off_randomly_during_use/
+
+Pixel 1 XL screen turning off randomly during use
+
+As the title says, the screen just randomly turns off during use (quite frequently too, to the point of being unusable). I did everything I could, software-wise. What might this be? It is not as if the screen just turns black, the actual lock screen animation happens, so I'm lead to believe it is not a screen malfunction by itself.

@@ -1,0 +1,7 @@
+https://www.reddit.com/r/GooglePixel/comments/n2uwk3/spotify_weird_bug/
+
+Spotify weird bug
+
+Been having this weird issue where if I open spotify, it opens normally when the app isn't running in the background, but once it's in use and I go into my home screen and I go back to the app, there is no animation and just pops into the screen, I couldn't find this anywhere online so any help is appreciated, it may seem a very silly issue but it just looks ugly
+
+Video link: https://streamable.com/iv5cwi

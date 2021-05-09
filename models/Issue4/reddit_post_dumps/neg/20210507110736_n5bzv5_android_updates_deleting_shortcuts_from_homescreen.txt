@@ -1,0 +1,5 @@
+https://www.reddit.com/r/GooglePixel/comments/n5bzv5/android_updates_deleting_shortcuts_from_homescreen/
+
+Android Updates deleting shortcuts from homescreen
+
+I have a Pixel 4a. I have added some Chrome shortcuts and Drive file/folder shortcuts to my homescreen. Unfortunately, every month these shortcuts get removed after the new Android update is installed. Does anyone know how to stop this from happening? (Or does anyone else have this issue?)

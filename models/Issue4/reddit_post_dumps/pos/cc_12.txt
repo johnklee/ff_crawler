@@ -1,0 +1,9 @@
+https://www.rav4world.com/threads/bluetooth-audio-keeps-stuttering-on-pixel-3-android-and-2020-xle-hybrid.304971/
+
+Bluetooth audio keeps stuttering on Pixel 3 (Android) and 2020 XLE Hybrid
+
+Hi, I connected to my wife's 2020 Hybrid over the weekend on a car ride, with my Pixel 3 (Android) phone. The connection worked fine but when I tried to play any music, it would stutter every 10 seconds. I was seated in the passenger seat and my phone was 12 inches from the head unit. I tried: Spotify offline (meaning the music was on my device; no streaming necessary), Spotify streaming through in-car wifi, Spotify streaming through my own LTE connection (disconnected from car wifi), Google Music streaming. They all had the same stuttering issue. I also tried to enable and disable HD audio in the phone Bluetooth settings. My wife, on the other hand, can stream Bluetooth from her iPhone 8 without any issues.
+
+Has anyone experienced this? I am at a loss on how to correct this. I have never seen BT streaming be this bad.
+
+Edit: I am actually seeing this reported a lot with Pixel phones so I think maybe it's device specific. I'll try to play with toggling wifi and BT scanning on and off and restarting the phone to see if it makes a difference. I'll leave this thread up in case anyone else has similar problems.

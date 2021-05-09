@@ -1,0 +1,19 @@
+https://priuschat.com/threads/pixel-2-not-finding-bluetooth.203982/
+
+Pixel 2 not finding Bluetooth
+
+Good evening,
+
+I'm attempting to listen to music (via Spotify or Google Play Music) that is playing on my stock Pixel2 via a Bluetooth connection to my 2010 Prius v (Advanced Tech pkg)
+* I've paired the phone to the Prius and am able to receive/make phone calls via the MultiFunction Display in the car.
+* I verified that I have 1 of 4 phones connected to the vehicle via "Manage Phones" menu
+* I am able to see the Bluetooth 'name' of the car (Snoopy) in the notification shade of my Pixel2 as a connected Device
+* When I click the "AUDIO" button (to the left of the MFD), the "BT" tab is disabled from selection.
+* I am unable to hear any music (spotify/google play music) via the car stereo, as I am unable to select "BT" from the audio menu.
+
+Any ideas?
+* I have unpaired / forgotten / re-paired with the Prius
+* I have powered down / up the Prius and attempted to pair with the vehicle again (which yielded a successful result of PAIRING, but no "BT" tab option able to be selected.
+
+
+Is it possible to Pair with the Prius so that phone calls can be made, but so that music is UNABLE to be played/BT tab is unable to be selected?

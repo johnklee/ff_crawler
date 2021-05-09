@@ -1,0 +1,13 @@
+https://support.google.com/pixelphone/thread/98874369/bluetooth-connection-issue?hl=en
+
+bluetooth connection issue
+
+Hi guys,
+I have my Pixel 4a 5G for a week now and I own an Amazfit BIP Lite smart watch which I have been using forever with the "Mi Bandage" app.
+I have installed the app and paired watch and restored settings+data from backup.
+Everything worked for 2 days then it started dropping BT connection , on and off.
+No matter what I do the phone loses BT connection with watch and keeps disconnecting and re-connecting.   I have done a factory reset on the watch, I have re-installed the APP but nothing helps.
+It seems to be OK for 1-2 days then suddenly it starts the whole mess again.
+Very frustrating from a brand new phone , Pixel 4a 5G.
+
+What do you recommend ? How can this be fixed ?

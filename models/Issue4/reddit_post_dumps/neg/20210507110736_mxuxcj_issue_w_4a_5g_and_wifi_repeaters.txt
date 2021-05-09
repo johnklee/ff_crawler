@@ -1,0 +1,12 @@
+https://www.reddit.com/r/GooglePixel/comments/mxuxcj/issue_w_4a_5g_and_wifi_repeaters/
+
+Issue w. 4A (5G) and Wi-fi repeaters
+
+Hi all, I'm having an interesting problem with my Pixel 4A (5G), and I'm running out of options here...
+
+I am using a few wifi repeaters at home, because the walls are really thick and it's hard to get a good signal from the box when not in the same room.
+With all my previous phones, the transition between the box and the repeaters worked just fine, but the Pixel has a peculiar behaviour there.
+Instead of picking the best signal available, it systematically connects to one of the repeaters, even if the box is closer. This makes using the wifi impossible since I always end up with a very weak signal, even when the box is a few meters away. I tried resetting the phone, but to no avail. A weird detail is that when not connected to the wifi, the phone sees it in the wifi list with a very good connection. Only when I actually click on it to connect to it do the phone goes awry and uses the much farther repeater...
+
+Any idea about how to solve that? Apart from that, the phone has been great so far.
+Thanks !

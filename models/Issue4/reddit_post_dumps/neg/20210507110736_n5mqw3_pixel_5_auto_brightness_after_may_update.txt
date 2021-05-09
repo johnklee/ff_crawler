@@ -1,0 +1,5 @@
+https://www.reddit.com/r/GooglePixel/comments/n5mqw3/pixel_5_auto_brightness_after_may_update/
+
+Pixel 5 auto brightness after May update
+
+My phone updated the other day and I am noticing that  auto brightness seems to be defaulting to around 20% regardless of ambient light. In bright light, I have to set the screen brightness way up. I put my phone in my pocket and pull it back out and it's back down around 20%. Same goes for very dark times. I drop the brightness down low, put my phone away, open it back up after some time and it's as round 20% again and too bright. Anyone else experiencing this?

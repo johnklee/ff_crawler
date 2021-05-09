@@ -1,0 +1,13 @@
+https://www.reddit.com/r/GooglePixel/comments/n0pyu3/hot_take_5g_at_least_on_the_pixel_5_makes_for_a/
+
+"Hot" take: 5g, at least on the pixel 5, makes for a worse ux
+
+Why would I write such a blasphemous title?
+
+Well, 5g uses a ton of battery on my pixel 5, and makes the device run hot as hell. I was using it in the car - someone else was driving - and halfway through I went into my settings and changed my preferred network to lte instead.
+
+The device almost instantly cooled down, my battery graph leveled out a little bit, and nothing was loading any slower.
+
+I think I'll be keeping it at lte, and slightly regretting the 700+ I spent to basically only get more storage, memory, and battery, but worse speakers and aspect ratio (2:1 is still the superior aspect imo) over my pixel 3.
+
+Any 5g pixel users feel the same way?

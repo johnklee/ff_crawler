@@ -1,0 +1,9 @@
+https://www.reddit.com/r/GooglePixel/comments/n7rffm/pixel_5_no_mobile_data_despite_5g_showing_in/
+
+Pixel 5, No mobile data despite 5G showing in quick settings. No 5G on Status Bar.
+
+I have this problem with my Pixel 5. Sometimes when I leave my home wifi I do not get mobile data. The status bar doesn't show any 5G or LTE, but when I pull down to get the quick settings it shows 5G under mobile data. However none of the apps have access to the internet.
+
+The only way to fix it that I know of is to go to the mobile settings, and disable the esim, and then reenable it. But it gets annoying to have to do it every time I leave the house. I never had to do that with older phones.
+
+Anyone come across this problem and is there a solution?

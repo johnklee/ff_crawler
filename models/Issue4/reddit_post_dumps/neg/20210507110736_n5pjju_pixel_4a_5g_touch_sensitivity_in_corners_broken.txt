@@ -1,0 +1,5 @@
+https://www.reddit.com/r/GooglePixel/comments/n5pjju/pixel_4a_5g_touch_sensitivity_in_corners_broken/
+
+Pixel 4a 5G touch sensitivity in corners broken again in May update?
+
+Is anyone else experiencing this issue again? It was prevalent a few months ago - tapping close to the corner of the screen (e.g. 3 small dots menu in YouTube app when fullscreen) does not register touch. It was fixed for a while, but since the new security update the issue is back again for me.

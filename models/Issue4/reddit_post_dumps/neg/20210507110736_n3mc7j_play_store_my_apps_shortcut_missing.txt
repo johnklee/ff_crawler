@@ -1,0 +1,21 @@
+https://www.reddit.com/r/GooglePixel/comments/n3mc7j/play_store_my_apps_shortcut_missing/
+
+Play Store My Apps Shortcut missing
+
+Recently after restarting my phone, I noticed that the My Apps Shortcut for the Play Store was missing.
+
+I'm using a Pixel 4 XL with Android 11.
+
+[https://imgur.com/a/KUcdNH0](https://imgur.com/a/KUcdNH0)
+
+The My Apps shortcut does appear on other devices I have with Android 11 like the OnePlus 9 Pro.
+
+I tried rebooting my phone again to see if that would help but the My Apps shortcut is still missing.
+
+Other app shortcuts like Brave, Spotify etc are still working.
+
+**Update/Edit:** As u/pimfram suggested in the comments,
+
+>Try disabling Play Store and enabling. That allowed me to get the shortcut back. Google support suggested it after I'd contacted them the other week.
+
+That seemed to work: [https://i.imgur.com/kaiM2sQ.png](https://i.imgur.com/kaiM2sQ.png)

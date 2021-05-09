@@ -1,0 +1,6 @@
+https://www.reddit.com/r/GooglePixel/comments/n808sr/opening_app_info_from_the_recent_apps_page_hangs/
+
+opening "app info" from the recent apps page hangs for arouns 4 5 seconds before showing
+
+this suddenly started to happen today, i have tried to force reboot, restart in safe mode, clear settings data and cache but still whenever i open app info of any app, it hangs for few seconds.
+anyone else had this issue before?

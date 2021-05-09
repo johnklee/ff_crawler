@@ -1,0 +1,63 @@
+https://www.reddit.com/r/GooglePixel/comments/mwd29x/switching_from_the_pixel_5_to_a_galaxys20_then/
+
+Switching from the Pixel 5 to a GalaxyS20, then back to Pixel
+
+So I've had the Pixel 5 for a few months and while everything about it was familiar as a Pixel phone, I still felt a bit underwhelmed (although I do understand that the 5 is a midrange phone) and it took me a bit to adjust to having a small phone again in my hand (upgrading from the 2 XL).
+
+I decided to give a Galaxy phone a try (everyone else in my family has Samsung or iPhones) and after two weeks I ended up going back to my Pixel. Here are some differences I noticed:
+
+**Things I liked about the S20:**
+
+*  *Screen:* I know this has been said before but Samsung screens really look amazing. They're bright and colorful and that brightness is a lot better than the Pixel when you're using it outdoors.
+
+&#x200B;
+
+* *Size:* I like having a bigger phone in hand, and while slightly bigger than the Pixel 5, it was a perfect-sized phone for me (plus/ultra were wayyy too big for me).
+
+&#x200B;
+
+* *Bixby Routines:* This feature was really cool and I wish stock Android had something like this. I know there are Android Rules but it's [very limited](https://www.xda-developers.com/android-10-rules-automation-feature-rolls-out-some-pixel-devices/#:~:text=Rules%20is%20an%20Android%2010,offers%20useful%20basic%20functionality%2C%20nonetheless). I've been thinking about using Tasker but I heard that stock Android still limits some things on there as well? Does anyone have some experience using Tasker on a Pixel?
+
+&#x200B;
+
+* *Speakers:* One thing that bothered me with my Pixel 5 was how tiny the speakers sounded (I miss the front-firing ones from my 2 XL). The speakers on the S20 sounded great and there's one on the bottom and one behind the camera.
+
+&#x200B;
+
+* *More personalization:* I loved having customization options like Good Lock, edge lighting, more vibration pattern settings, more lock screen settings, etc. Just more options for me to choose from compared to stock Android.
+
+&#x200B;
+
+* *AOD:* I love the AOD on this phone and wish the Pixel would make a return to this, where you tap once to see the time & notification icons and tap twice to see the lockscreen.
+
+&#x200B;
+
+* *Haptics:* The haptics on my Pixel 5 feel a bit...weak? I've missed several calls before because I didn't hear my phone vibrate. Even with every haptic turned all the way up, it's still not enough. The S20 has strong haptics and of course, with the different vibration options, I can determine what kind of notification it is (The way I fixed this with my Pixel though is by getting a Fitbit so even if I miss hearing/feeling the vibration from my 5, I'll also feel it on my Fitbit).
+
+&#x200B;
+
+* *Camera:* You can get some really nice shots on this phone, albeit in *good natural* lighting. There are a lot of different camera modes too.
+
+**Things I realized I missed from my Pixel:**
+
+* *A physical fingerprint sensor:* The S20's in-screen fingerprint sensor (along with a screen protector) would work for the most part, but it felt like it would take a half-second to a second longer than a physical one. The face unlock was a lot faster but it would brighten the screen and it made me wish there was a Bixby Routine that would let me disable face unlock at night and then turn it on in the day. On the other hand, the Pixel 5's fingerprint sensor is lightning fast. I loved being able to have my phone unlocked by the time I take it out of my pocket or lift it from my desk. And the slide down for the notification panel is always a plus.
+
+&#x200B;
+
+* *Screen calling:* I didn't realize I would miss this until I went 2 weeks without it. Not only was it great for blocking spam but it was also good for calls I was unsure of answering (appointments, doordash, mail deliveries, etc.) Most of the time people would leave a message or say their name. Honestly, one of Pixel's best features imo.
+
+&#x200B;
+
+* *A solid camera/post-processing:* I expected to be super impressed and blown away by the S20 camera but...sadly wasn't. For the life of me, I couldn't take decent pictures of pets on this thing (and I like to take pics of animals a lot). Any slight movement would make that part blurry and the fur would be smoothed in post-processing. I messed with a lot of settings (pro mode, turning off scene optimizer) and in the end could only get really nice shots if that animal was really still. I saw other people making reddit posts with similar problems regarding blurry pics and pets. The over-saturation was a bit annoying too, especially with pinks, reds, and purples, and I definitely noticed the smoothing on faces, like selfies. With the Pixel, I could take pictures of pets no problem, colors looked natural, details looked great, and the post-processing works really hard.
+
+&#x200B;
+
+* *No bloatware:* My phone felt a bit cluttered and I had no idea Facebook was something you could only disable, not uninstall. Out of the box, I was installing a lot of Google applications and disabling several Samsung things (like the power button with Bixby). I know there are ways to remove the bloatware but didn't feel like doing all that work yet lol.
+
+&#x200B;
+
+* *Better battery:* I had a solid battery life with my Pixel, usually coming home around 35-40% depending on usage. With my S20 I would come home with around 20% or under although I'm not sure if that's because of bloatware or other things I haven't disabled on it yet.
+
+EDIT: Oh I totally forgot - latest updates! One thing I also loved about having a Pixel was being able to have the latest updates. For example, I used that "Select" feature quite a bit on my Pixel and I noticed that Samsung didn't have that yet when I was using it. 
+
+Overall, I'm back to using my Pixel 5 on a daily basis. The S20 is definitely *not a bad phone*. But ultimately, it just wasn't for me. And switching for a bit made me remember why I love the Pixel lineup so much. While the Pixel 5 isn't a flagship with the best screen or hardware, it's a reliable phone, and that's what I need most. Hoping we get an XL option with the possible upcoming 6 because I really do prefer a slightly bigger phone.

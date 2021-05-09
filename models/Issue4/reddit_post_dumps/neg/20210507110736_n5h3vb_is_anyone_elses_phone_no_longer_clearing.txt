@@ -1,0 +1,9 @@
+https://www.reddit.com/r/GooglePixel/comments/n5h3vb/is_anyone_elses_phone_no_longer_clearing/
+
+Is anyone else's phone no longer clearing Messages/FB Messenger notifications after reading them on another device?
+
+Not a huge deal, but I noticed in the past few weeks that now if I read messages on my computer on Google Messages for Web or Facebook Messenger, the corresponding notifications on my phone remain instead of clearing. 
+
+Up until recently, if I clicked inside a Messages or Facebook chat on another device (desktop/laptop), the notifications on Android for that conversation would immediately swipe away by themselves. Not sure why it stopped happening.
+
+Is this is a wide issue or just a setting I accidentally changed?

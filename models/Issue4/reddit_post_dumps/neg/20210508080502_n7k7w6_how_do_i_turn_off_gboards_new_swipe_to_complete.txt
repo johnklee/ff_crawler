@@ -1,0 +1,7 @@
+https://www.reddit.com/r/GooglePixel/comments/n7k7w6/how_do_i_turn_off_gboards_new_swipe_to_complete/
+
+How do I turn off Gboard's new "swipe to complete" text prediction?
+
+I hate text prediction. I hate Google thinking it knows what I want to type. I hate seeing words I haven't typed appear, especially when they are so rarely what I want to type. I hate when it suggests I swipe to finish a word I am three letters away from finishing, how does that save me time?!? How is it faster to have me stop what I'm doing, realize I have been given a suggestion, verify that is the suggestion I want, and then swipe to finish the word?
+
+I want it off, but I can't find anything in the settings that reflects it. Anyone figure it out yet?

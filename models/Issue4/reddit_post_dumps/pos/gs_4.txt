@@ -1,0 +1,11 @@
+https://www.reddit.com/r/GooglePixel/comments/jma634/song_information_over_bluetooth_with_pixel_5/	
+
+Song information over Bluetooth with Pixel 5?
+
+Has anyone with Ford sync in their car had any luck getting song titles and info to appear on their infotainment system?
+
+Whenever I connect my phone over Bluetooth, the media player detects whatever media I'm playing as just "Pixel 5".
+
+Normally I would assume that this is just how the Sync OS handled metadata over Bluetooth and call it a day, but my old Pixel 3 displayed the info correctly so I'm wondering if there is anything I could do on my end to fix this?
+
+It's worth noting that the media controls aren't working either. Considering that the car is this same I'm guess that this is purely an issue with the Pixel, and not the car.

@@ -1,0 +1,7 @@
+https://www.reddit.com/r/GooglePixel/comments/n5yh0k/weather_in_feed_showing_temperature_in_fahrenheit/
+
+Weather in feed showing temperature in Fahrenheit even though set to Celsius!
+
+On my Google Pixel 4XL, on my home feed on the left, in the top left my weather shows the temperature in Fahrenheit! Everywhere else it shows it in Celsius but no matter what and where I switch every possible setting I've found, I've switched it to celsius but nothing works. Maybe I'm wrong but before I had to push the April software update to my phone today using the Pixel Repair Tool (was stuck on March until today. Now waiting for May Update), it showed it in Celsius (I believe all the time) in the top left. Now it shows it in fahrenheit and will not change. Anyone else have this issue? Please help. 
+
+[weather feed](https://photos.app.goo.gl/Bi7UkT6c1LpoNeab6)

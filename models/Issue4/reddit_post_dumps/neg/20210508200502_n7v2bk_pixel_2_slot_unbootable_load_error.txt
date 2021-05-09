@@ -1,0 +1,13 @@
+https://www.reddit.com/r/GooglePixel/comments/n7v2bk/pixel_2_slot_unbootable_load_error/
+
+Pixel 2 Slot Unbootable: Load Error
+
+Hi all,
+
+My girlfriend has a Pixel 2 that just went nuts this morning. It shows the bootloader screen with the Android logo with its front open. 
+
+I'm seeing an "ERROR: Slot Unbootable: Load Error" when I try to start it, and am unable to successfully select any of the other options. If I try download mode, it says "ERROR: Operation Denied" & if I try recovery mode, it says "ERROR: BootLinux Failed: Not started".
+
+Connecting to my windows pc, I'm able to see it as a listed device in fastboot but not adb, I do not believe developer options or USB debugging was enabled before it went bust.
+
+Any advice here? Hoping to salvage at least the data on the phone but would be amazing if we could get the phone up and running fully.

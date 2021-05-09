@@ -1,0 +1,5 @@
+https://www.reddit.com/r/GooglePixel/comments/n6ijgs/airpods_2nd_generation_low_volume_on_pixel_4a/
+
+Airpods (2nd generation) low volume on Pixel 4a
+
+About a month ago, my airpods randomly got super quiet. I have tried every single suggestion I can find on the internet. I've enabled developer mode so I could disable max volume limitations. I've disconnected and reconnected my airpods. I've made sure they're on the right firmware. I reconnected my older pair (which aren't as good objectively because I lost one of them and the one that's left has a broken speaker) and it's *still* louder than the 2nd generation, newer airpods. Has anyone found a fix for this? I had a similar problem on my computer (macbook air) a few days ago and figured out that the reason the airpods were quiet was due to a glitch that made them think the mic was supposed to be activated, which automatically lowers the volume. I made some adjustments and fixed that on my computer. Is this a similar problem on my phone? And if so, is there a way to rectify that?

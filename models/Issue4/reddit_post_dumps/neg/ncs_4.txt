@@ -1,0 +1,19 @@
+https://www.reddit.com/r/GooglePixel/comments/n6mhcu/airtag_competitor/
+
+Airtag competitor
+
+Airtags work mostly by relying on the popularity of iOS - the little Bluetooth devices don't have their own gps units, but proximal apple devices report their location based on Bluetooth and uwb tech.
+
+This would be a stupidly easy system for google to outcompete nearly overnight. All Android devices with google play services installed already have Nearby.
+
+Nearby and its branding already work for Nearby share, and some other things that google kinda wiffed (maybe for paranoia over not wanting to seem creepy?).
+
+But anyway, imagine this scenario:
+
+MadeByGoogle makes little square shaped airtag things, or maybe they outright buy tile. "Nearby items" or something.
+
+These devices use the already-existing Nearby function of google play services to work exactly like airtags, through the Find Device app that's also already on nearly all Android devices.
+
+Run a tv ad or 2 about the things and announce them at their fall pixel event or something.
+
+Overnight, you have a massive network of Android devices worldwide that can likely outcompete airtags given the prevalence of Nearby enabled devices.

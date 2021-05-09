@@ -1,0 +1,84 @@
+https://www.reddit.com/r/GooglePixel/comments/n271i8/my_thoughts_after_trying_out_an_iphone/
+
+My thoughts after trying out an iPhone
+
+#FOLLOW-UP POST: COMING SOON
+
+So I've had Android phones for many years now. I had a Nexus 5, Nexus 6P, and am currently using a Pixel 2XL. Before these phones I had an iPod which I loved.
+
+This is the year I get a new phone. I was waiting to see the Pixel 6, but the latest iPhone offerings I feel are very good, and the privacy features added in iOS 14.5 interested me enough to want to try an iPhone.
+
+I just wanted to list my thoughts out for my own reference and to see what others think after the first ~24 hours of me using the phone, specifically an iPhone 12 Pro. 
+
+Good:
+
+* Apps and the OS in general have so much polish. Everything feels consistent and easy to use.
+* Privacy features are really nice. You know they're good when companies are complaining about them.
+* Love how you can uninstall all than about 10 default apps. I know you can't view core system apps unlike Android but it's nice to actually fully uninstall and say no to 1st party options.
+* Battery life seems to be very good so far. Very early days of course but feels more consistent than Android.
+* Integration into the ecosystem is nice. Products are well polished and well integrated. 
+* Haptic engine is so good! 
+* Face ID is really nice.
+* LEDs for camera / microphone usage are cool, as are the notifications about apps using clipboard or accessing sensors or location.
+* Actually a consistent dark theme that is OS wide.
+* I can actually uninstall Mail and set a different app as default. Obviously trivial on Android but impressed it's an option here (browser too though uses WebKit).
+* I like the overscroll effect even if it does slow things down.
+* PIP is much better than on Android.
+* Autofill for passwords is much better than on Android.
+* App privacy labels are amazing.
+* Phone specific, but it feels very premium to hold and use. 
+* Games are more optimised. You can tell where app devs are spending most of their time.
+* iPhone video is just unmatched. Photos are good too.
+* Haven't yet used iMessage or other similar offerings but the integration on offer is very nice.
+* Apps feel like they startup much faster without super long splash screens.
+
+Mixed:
+
+* Obviously extra update support is a good thing and the fact that I'll get iOS 20 most likely at least is incredible, but Apple seem to have a lot of apps tied to iOS updates. Android separates this so they can be updated via the Play Store, not so much here.
+* Camera app just feels worse than the Pixel camera app. Sometimes confusing to use for me personally but I like the options you get.
+* Widgets are okay, polished but nothing really special.
+* Why doesn't the power button just act like a power button. Get lost Siri!
+* Why is it so inconsistent to close the keyboard? Android you can just close it but here I'm not sure whether I need to swipe the page contents or what.
+* What is this Truetone even meant to be doing? It's like a knockoff version of the night shift mode.
+* Less app variety and not as many FOSS apps from what I can tell.
+* Only four apps in the dock. 
+* You should be able to scale DPI, screen elements are too large.
+* Let me uninstall the Health app. Why do I need that but not contacts?
+* Control center only disconnects things like WiFi or Bluetooth, doesn't turn them off.
+* Are OS updates just really slow to install or something? My Pixel was much faster.
+* Reluctant to switch to many Apple versions of common services EG maps as they don't have any web apps. It's iPhone (or Mac) or nothing.
+* Have to change ringer volume in settings or link it to media volume. Android gives you separate sliders.
+* The notch is certainly present but it's not too bad.
+* Closing app seems to equal killing process, not as good background functionality than Android.
+* Why does the silent switch still allow vibration? That's not... silent. 
+
+Bad:
+
+* Back button is so much worse than Android. On Android, it actually goes back; on iOS, it goes back in the same activity.
+* Notifications are bad. On iOS, they're literally just there to show you a notification; on Android you can interact with them much more and they're grouped better.
+* Apps have some extra options but weird missing features. Does YouTube not support landscape usage? Why does Reddit have a whole new tab that isn't there on Android?
+* Why is SwiftKey so much worse in features and layout than Android? Predictions are bad, the keyboard layout is terrible, and there are way less features. The default Apple keyboard doesn't even support a number row.
+* iCloud storage being stuck in the past with only 5GB for free, and upon inspection, most stuff is not E2E encrypted.
+* The settings app is such a mess. I thought the Android one was bad but wow it's so much worse here on iOS.
+* I hate how some app settings are found in the actual Settings app, whilst some are found within the app.
+* Siri sucks.
+* No option for device-wide DNS from what I can tell.
+* I don't want to use Safari, but every browser is WebKit so here I am using Safari. No Firefox with uBlock Origin for me.
+* Text selection is just objectively inferior to Android. 
+* App library is just a meme. Let me customise the folders or just let me view the alphabetical app list only.
+* The Photos app is a mess. Definitely sticking with Google photos for that.
+* Animations. Are. So. Slow.
+* Scrolling feels more clunky and slow on iOS compared to Android. 
+* The lightning connector is all around bad.
+
+~~Copying this text from the notes app was a pain (there is no select all).~~ All of this was written on the iPhone so excuse any typing errors as I get used to the keyboard.
+
+My current plan is continue to try this for the next few days, and then decide whether to stick with it and keep it, or return it and keep my Pixel until the new one is unveiled.
+
+My honest thoughts is that the experience is good, but there are a lot of nuance things that are putting me off, and that this isn't necessarily worth £1000.
+
+Edit 1: apparently this is formatted poorly on old Reddit. Apologies, but if you want this to be properly formatted, please view on new Reddit or check this handy comment [here](https://www.reddit.com/r/GooglePixel/comments/n271i8/my_thoughts_after_trying_out_an_iphone/gwj6fnw).
+
+Edit 2: Probably going to slow down on replying to comments now. I will be creating a follow-up post in the coming days as a full review and with my decision.
+
+Edit 3: Follow-up post

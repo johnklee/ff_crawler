@@ -1,0 +1,9 @@
+https://www.reddit.com/r/GooglePixel/comments/n769xe/is_a_one_time_alarm_possible/
+
+Is a one time alarm possible?
+
+I have the pixel 3a. I use alarms a lot to keep track of meetings, appointments, etc.
+
+Some of my alarms are repeating alarms, and some are just one-offs. But when I set a one-off alarm, even after I dismiss it, it still appears (and clutters up) my list of alarms. Periodically I have to go in there and clean out all the alarms I never wanted to save in the first place. 
+
+Isn't there a way to set just a one-time alarm that doesn't leave droppings in the alarm list?

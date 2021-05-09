@@ -1,0 +1,15 @@
+https://support.google.com/pixelphone/thread/6326924/bluetooth-multipoint-connection-issues?hl=en
+
+Bluetooth Multipoint Connection Issues
+
+Hi,
+
+I've recently purchased a Pixel 3 device and I'm having problems connecting both it and my MacBook to my headphones set (Bose QuiteComfort 35 II).
+I'm able to connect my headphones to the Pixel 3 device separately.
+I'm able to connect my headphones to my MacBook Pro separately.
+
+However I'm only able to connect only 1 of those devices (Pixel 3 or MacBook) to my headphones but not both of them.
+Meaning if I've connected my Pixel 3 to my headset then I won't be able to connect my MacBook.
+In order to connect my MacBook to the headset I need to clear the headphones pairing list and only then I can connect my MacBook, but then I won't be able to connect my Pixel 3 afterwards.
+
+Searching for this issue I came up with a few other people running into Bluetooth Multipoint issues in the Pixel 3 but couldn't find any solve (you can try searching for "pixel 3 multipoint issues").

@@ -1,0 +1,11 @@
+https://www.reddit.com/r/GooglePixel/comments/n6iwtr/experimental_function_tab_groups_randomly_stopped/
+
+Experimental function "Tab Groups" randomly stopped working on my Pixel 4 even when enabled, any help?
+
+Personally, I really liked the tab groups, helped me stay organized on the different topics I'd be browsing about (car parts, pc parts, workout routines, etc) all neatly assigned to my tabs on my pixel. 
+
+But as of last week, that function randomly stopped and now I'm back to the bullet layout with no organization and plenty of tabs thrown about. 
+
+I've enabled the tab groups on chrome://flags like I've seen suggested, but it still doesn't work. 
+
+Any clue how to get it working again?

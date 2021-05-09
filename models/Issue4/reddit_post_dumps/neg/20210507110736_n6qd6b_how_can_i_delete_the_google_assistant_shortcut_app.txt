@@ -1,0 +1,7 @@
+https://www.reddit.com/r/GooglePixel/comments/n6qd6b/how_can_i_delete_the_google_assistant_shortcut_app/
+
+How can I delete the Google assistant shortcut App?
+
+By mistake I accepted having an Google assistant shortcut App, now it shows at my app drawer, but when I open app settings it shows the Google app... I can not find where I need to go to disable just that shortcut App :( 
+
+Any help please

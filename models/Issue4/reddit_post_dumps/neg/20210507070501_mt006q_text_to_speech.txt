@@ -1,0 +1,5 @@
+https://www.reddit.com/r/GooglePixel/comments/mt006q/text_to_speech/
+
+Text to Speech
+
+After the latest update, whenever I use text to speech and say period to put a period at the end of a sentence it then instead just types period. Did my Keyboard settings get messed up?

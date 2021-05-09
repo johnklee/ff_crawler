@@ -1,0 +1,7 @@
+https://www.reddit.com/r/GooglePixel/comments/mzpr4o/calls_ring_to_phone_speaker_but_not_bluetooth/
+
+Calls ring to phone speaker but not bluetooth headphones
+
+I've seen this posted around a few times, but have not actually seen a solution for it so I'm hoping someone here can help.
+
+When I'm in the workshop I've got my noise-cancelling headphones on listening to music or an audio-book and usually have my phone set down charging.  When I get a phone call, the ring plays through the phone speaker but not my headphones.  Sometimes my music/ab pauses so I have some indication that something is going on, but I can't hear a ring because the headphones are noise-cancelling. Every other notification sound I get comes through the headphones, why not my rings?

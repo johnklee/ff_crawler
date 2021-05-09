@@ -1,0 +1,7 @@
+https://www.reddit.com/r/GooglePixel/comments/n6mpwl/camera_app_not_updating_location_for_geotagging/
+
+Camera App Not Updating Location For GeoTagging Photos As I Move
+
+I have a Pixel 4a and I'm finding that the Camera app isn't saving very accurate GPS locations for photos.  I'll be on a walk and take a bunch of photos and they will all end up at the exact same location saved.  It's like the Camera app only checks for the location once and then doesn't update as I move around.  I also use a GPS app (GaiaGPS) which can takes photos attached to waypoints.  When I take photos this way on a walk the saved locations end up much more accurate.  
+
+Has anyone else noticed this problem with the Google Camera app?  And does anyone know of a fix?  I've tried turning off Google Location Accuracy but that doesn't seem to have made a difference.

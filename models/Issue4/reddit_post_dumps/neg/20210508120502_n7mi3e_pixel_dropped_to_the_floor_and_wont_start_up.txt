@@ -1,0 +1,11 @@
+https://www.reddit.com/r/GooglePixel/comments/n7mi3e/pixel_dropped_to_the_floor_and_wont_start_up/
+
+Pixel dropped to the floor and won't start up
+
+My pixel dropped to the floor today, the screen was on when I picked it up then immediately went off. When I attempted to turn it back on, it showed the battery icon with red base (like in low battery) for half a second then went off. My battery was on 40%+ before the fall.
+
+Charging: When I plugged it in, it does not show any charging indicator. I left it plugged in for more than 10mins (direct then pc), and it still does not charge. One thing I noticed that the google icon comes up for a second if I press the power button when the phone is plugged in, but then it goes off immediately.
+
+When I attempted recovery mode when plugged in, it started entering the mode but went off as soon as I take my hands off the buttons.
+
+I am in a pixel unsupported country with no iFixit. If you have any possible solution, it is welcome please.

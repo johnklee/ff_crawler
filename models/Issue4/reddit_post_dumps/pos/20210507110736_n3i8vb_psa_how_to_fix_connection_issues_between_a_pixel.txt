@@ -1,0 +1,18 @@
+https://www.reddit.com/r/GooglePixel/comments/n3i8vb/psa_how_to_fix_connection_issues_between_a_pixel/
+
+PSA - How to fix connection issues between a Pixel and a Tile Bluetooth Finder
+
+Posting this to help others out in the future, as my own Googling only resolved this after finding a very obscure Reddit comment that was several years old!
+
+If you are having issues trying to connect between a Pixel and a Tile (Pixel 5 and Tile Pro, in my case) - such as dropped connection, slow connection speed, intermittent/garbled ringing, then you may need to change your Pixel's AVRCP version.
+
+My Pixel 5 defaults to v1.5, but dropping it down to v1.4 fixed all the issues I was having.  The steps to do this are as follows:
+
+1. Go to settings --> about phone --> tap build number 7 times to enable developer options
+2. Go to settings --> system --> advanced --> developer options
+3.  Scroll down to bluetooth AVRCP version
+4.  Change from 1.5 (default) to 1.4
+
+And that's it!  Seems the change sticks if you then subsequently turn off developer options, too.
+
+Hopefully this helps someone out, Tile customer support were totally stumped and assumed a faulty Tile!!!

@@ -1,0 +1,11 @@
+https://www.reddit.com/r/GooglePixel/comments/n6gn6u/may_21_security_patch_and_youtube_musicbluetooth/
+
+May 21 security patch and YouTube music/Bluetooth crashes
+
+Hey Pixel users. Just checking if anyone else started experiencing this with the May patch. 
+
+My regular 4A started having Bluetooth connection issues that might be related to the YouTube music app crashing. 
+
+I can't get the app to launch until a reboot. It's happened about 4 times over the past 48 hours or so. 
+
+Thanks for reading.

@@ -1,0 +1,9 @@
+https://www.reddit.com/r/GooglePixel/comments/n6n2hi/anyone_else_have_issues_with_google_discover_feed/
+
+Anyone else have issues with Google Discover feed?
+
+I can't open anything from there, when tapping, it just do nothing. Google app also crashes more frequently recently. Right now, the only way for me to view those articles is by opening it from Chrome or Google app, not from swiping to the left of my home screen...
+
+Edit: Deleting google search data & cache or uninstall it might fix this problem
+
+Edit 2: for clarification purpose, I'm on beta channel. Sorry for late edit.

@@ -1,0 +1,13 @@
+https://www.reddit.com/r/GooglePixel/comments/n5uqnt/closing_the_environment/
+
+Closing the environment
+
+Starting with Android 10, apps that lists the opened connections no longer work.
+
+Wifi scanning require location permission.
+
+GPS-only for positioning requires that data be turned off.
+
+What will Android 15 be like?
+
+Google is closing the environment around data gathering, it seems. Everything else gets slowly removed.

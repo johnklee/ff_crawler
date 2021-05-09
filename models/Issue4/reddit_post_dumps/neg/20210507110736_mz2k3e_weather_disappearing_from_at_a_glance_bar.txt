@@ -1,0 +1,5 @@
+https://www.reddit.com/r/GooglePixel/comments/mz2k3e/weather_disappearing_from_at_a_glance_bar/
+
+Weather disappearing from "At a Glance" bar
+
+I have to replace the widget to fix it. I literally put a second At a Glance widget right under the first one, and the weather instantly snapped back into the first one. This is the 2nd or 3rd time it's happened. Pretty annoying tbh. I want the current temperature and lil forecast graphic in the At-a-Glance all the time, forever, please and thank you. Anybody know of a more permanent fix (besides a 3rd party widget)?

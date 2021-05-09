@@ -1,0 +1,314 @@
+https://www.reddit.com/r/GooglePixel/comments/n75ttu/my_thoughts_after_trying_out_an_iphone_update/
+
+My thoughts after trying out an iPhone [UPDATE]
+
+**Intro**
+
+If you haven’t seen my initial post, check it out [here](https://www.reddit.com/r/GooglePixel/comments/n271i8/my_thoughts_after_trying_out_a n_iphone/). 
+
+A few people were asking for my decision over what I was going to do regarding the phone choice, and the TL;DR is at the end in the conclusion. I never anticipated this follow-up post to become so detailed, but I have ended up writing a full review of my experience. 
+
+If you want to read just the review part in a nicely formatted PDF, I have temporarily hosted a version [here](https://drive.google.com/file/d/1G15KEy-4arFGyQd_qRovHsHm6LMZGS90/). This version is somewhat out-of-date compared to the final edits and additions made here on Reddit (especially in the misc section), so I'd probably recommend reading here. I have been away so not able to fix this immediately; will create an updated version later and edit this.
+
+Thank you to everyone who commented on my previous post offering their thoughts and suggestions based on my initial feedback. I've learned a lot since then, and I'm certainly glad I waited a bit longer to continue trying the device.
+
+This review is original content written by myself based on my own thoughts from using the iPhone 12 Pro and iOS 14.5 compared to my Pixel 2XL on Android 11. 
+
+This is not a 100% comprehensive review but covers the main areas of note and the miscellaneous section contains highlights of smaller things I wanted to discuss (though not everything- especially in areas that I have no interest in or reason to investigate, or have otherwise forgotten). The review has not been paid-for or sponsored and is written as much as possible without bias. It is not written in a completely formal style, and I apologise in advance for any grammatical errors, improper English, or repetition of terms.
+
+Moving on, I wanted to write this post to talk more objectively about the iOS vs Android experience in general, as it has been insightful for me to compare these two very different operating systems. 
+
+There are some major differences between how these two versions function, and I don’t think that one is necessarily better than the other. I am going to talk through some key aspects that I noticed, and generally go on a long-winded discussion about everything I can think of from the week I’ve had the iPhone.
+
+**iPhone 12 Pro**
+
+This is, unequivocally, the nicest and most premium phone I have ever used. There is no Android phone that compares in build quality or design. It is so well built, so beautifully created, that it feels wrong to hide it in any case.
+
+The stainless-steel sides on the Pro do collect fingerprints, but it looks very premium, and the frosted glass back enhances that aesthetic. The front glass is allegedly more drop resistant than previous iterations, which gives me more confidence in the build as it makes me uncomfortable to have a double-backed glass phone- shame this ceramic shield isn’t on the back glass too. It is somewhat slippery to hold though.
+
+The triple-cameras also offer a unique look which makes the device recognisable in the series, as does the overly large for today’s standards notch on the front (thankfully I prefer a dark theme which predominately hides it). I haven’t made use of the LIDAR sensor, but I also knew that would be gimmicky for my usage with the Pro as AR and night photography aren’t areas of interest for me. 
+
+Neither is the MagSafe connector- though that would probably change if I had any accessories. The extra water resistance compared to other IP68 devices is an added bonus, and all these factors culminate to make the phone feel even more premium.
+
+The screen is extremely good and well calibrated, whilst getting very bright and viewable outdoors. The side buttons are clicky, well positioned (volume buttons on the left is better), and nicely sized. The mute switch is actually a cool feature to have on a phone (even if I sometimes forget about it), and thankfully you can indeed control whether it vibrates or not.
+
+The speakers are shockingly loud and clear, as is the microphone’s clarity, and the torch is appropriately bright (I like how you can control the brightness of it through the control centre). 
+
+Then obviously, the A14 SOC within the 12 series is so ahead of anything else on the market that it’s not even funny.
+
+The lightning port is an evil creation that shouldn’t exist right now. However, Apple will likely kill off the port entirely and switch to MagSafe charging before we ever see an iPhone with USB-C. 
+
+Whilst this exists though, you cannot tell me that Apple care about the environment as this outdated, slow, and proprietary charging port is proof that Apple only care about profit here and not about utilising an international standard in their best-selling product. 
+
+There are no mental gymnastics that are acceptable to justify this port, but who knows what would have happened if USB-C had come sooner. Yes, this deserves its own paragraph in a small section only talking about the phone itself.
+
+The price of the iPhone in general is quite a lot, but some other Android flagships have actually overtaken it as the most expensive phone. I don’t feel comfortable spending four-digits on a phone, even if you keep them for years and can do almost anything on them. 
+
+Furthermore on price, Apple accessories (such as not including the charger in the box) is not something I like at all- especially not on the environment angle- but you can get around that by not only buying first-party products- assuming they don't prevent them from working.
+
+Before I move onto the main points with iOS and Android, I will say that the cameras are good. I’m not a professional photographer, but photos are great, and videos are superb (though my Pixel holds up well in the photography department still and I wouldn’t say the iPhone is much ahead here). I won’t go into much detail about this as I feel that it’s difficult to buy a phone nowadays which has a bad camera, and the iPhone is certainly very good here.
+
+Concluding on just the phone specifically, I love it; the 12 Pro is just a wonderful device. If I could take it, and run it with stock Android, then I don’t think there would be a better mobile option out there, especially with how well iPhones hold their value. I’m not really here to review the phone itself though, so now onto the fun stuff...
+
+**Notifications**
+
+Yup, I’m starting here. Notifications on iOS are simply worse than their Android counterparts. It feels as though iOS notifications are only there to be viewed and then dismissed. On Android, notifications feel like an extension of an application; alleviating the need to launch the app. 
+
+Android notifications are also bundled and grouped as you would expect and can be dismissed much more easily. I can also do things with Android notifications like snoozing or specific app things like marking as read on the platform itself.
+
+In contrast, iOS notifications aren’t bundled properly; they aren’t grouped properly; they can’t be snoozed; they offer little to no interaction; and worst of all, they don’t sync properly with the app badges on your home screen so even if a notification has been removed the app badge is still present. 
+
+Getting to the notification shade is also more annoying than on Android; I have to make sure that I’m swiping on the left side here.
+
+I honestly hate interacting with notifications on iOS compared to Android but hopefully Apple can improve this area in the future. Dismissing notifications on iOS is what I was preferring to do (and completely swiping them away takes a double swipe or a serious single swipe), whereas on Android I felt more comfortable interacting with them.
+
+In a similar area, the control centre is not as good as the quick settings on Android. Toggling WiFi / Bluetooth on iOS only disconnects them- but doesn’t turn them off; I don’t like this and whilst I understand the justification, I would strongly prefer that they just turned off completely. 
+
+It also takes more effort to get to some settings, and you are more limited with what can be done there. Why do I need to hold on the brightness slider to turn on night shift, where on Android it’s a specific toggle? Why can't I actually customise area properly? I am a fan of some of the options available: Shazam and QR scanner are nice.
+
+I like how you can turn off the control centre on the lockscreen though, and this is something I have wanted Android to offer for years for its quick settings toggles.
+
+**Keyboard**
+
+My second most hated area. The keyboards on iOS are objectively worse than on Android, and I don’t think this can be contested. I immediately dismissed the stock iOS keyboard as it didn’t offer haptic feedback on key presses (despite the iPhone’s incredibly good haptic engine) nor did it offer a number row. 
+
+Luckily, you can at least download third-party keyboards on iOS, so I downloaded SwiftKey which is the keyboard app I have used for the last decade on Android.
+
+* [Here is SwiftKey on Android](https://cdn.discordapp.com/attachments/355017613396541443/838069089901608980/Screenshot_20210501-1606162.png)
+* [Here is SwiftKey on iOS](https://cdn.discordapp.com/attachments/355017613396541443/838069075833782332/image0.png)
+
+I think the pictures speak for themselves. To say that the iOS version is inferior would be an understatement. Typing on the iOS keyboard is so much less efficient compared to Android that it’s just painful. 
+
+Additionally, Apple must enforce specific policies for what a keyboard app can do via their API, or maybe SwiftKey is just in beta on iOS, as the typing experience is simply miserable. 
+
+Closing the keyboard is also a pain: on Android you can always hit a dedicated button to do so whilst on iOS it’s sometimes swiping down on the screen or some other sort of magic combo.
+
+On Android, there are alt keys by holding on a letter (and this hold time can be adjusted), there is a comma in a logical position, and I can actually customise various aspects of the keyboard. 
+
+In line with this is text selection, which I won’t make a dedicated section for, but I still think that it feels worse on iOS compared to Android despite having played around with it now for a few days. It just feels like you’re in way less control of text selection in general. Moving the cursor via the space bar is also on Android, so not a standout feature here.
+
+**Back Behaviour**
+
+I simply do not like how it works on iOS. Example: I am in my browser and I click on a link to open the Reddit app. If I swipe back on Android, this takes me back to my browser; if I swipe back on iOS, this takes me to the Reddit home screen. 
+
+I understand that iOS offers a tab in the top left to return, but this is inconveniently placed and less intuitive for me. I am also aware that you can swipe the bottom bar to switch apps, but this behaviour is the same as on Android. Android is inconsistently good at going back; iOS is consistently bad.
+
+**Settings**
+
+Oh boy, the settings app. I have experience with the Pixel settings app only, and I know some other Android settings apps are bad, but the iOS one is definitely worse than the Pixel one.
+
+So many settings are in odd places (accessibility is weirdly cluttered) and I don’t like how some apps have their settings in the iOS settings app. In my view, the main settings app should be for OS settings only. 
+
+Many first-party apps from Apple have so many settings hidden in there that it’s frustrating- especially when you want to change something and have to switch apps to do so. The camera app is especially guilty of this.
+
+Getting DNS profiles to work is slightly more work than how it is on Android (where you can just type in your DNS server and get DoT working immediately). iOS does support DoH, but the requirement to install a profile is extra effort rather than just typing in a DNS address and getting it for all networks immediately. Not really a serious complaint though as in my limited testing this all works fine.
+
+**Home Screen**
+
+You could hand an iPhone to *anyone* and I am certain that they would know how to navigate the iOS home screen. It’s extremely simple and works well enough, which makes sense as it hasn’t changed for years.
+
+What doesn’t work well, what isn’t intuitive, and what needs to be changed is the app library; it’s bad. The main issue is the fact that you can’t control any categories whatsoever. I had some apps that sat alone in a folder, and not even in a folder that I would classify the app as. 
+
+I really wish you could control these folders, or just let us disable the app library all-together and make a vertical swipe up open the alphabetical app list wherever you are on the home screen.
+
+Home screen customisation via widgets is limited, but they’re also new on iOS. Widgets feel quite polished and consistent, but don’t really prevent me from checking an app if I need to. I imagine that they will continue to improve, but the current offerings feel quite limited to work with. 
+
+I’d really like more customisation in general here for the home screen: changing grid size, more apps in the dock, and enabling freeform positions for widgets would be the main things.
+
+**Apps**
+
+Apps are mostly good on iOS compared to Android. On the one hand, they all feel very consistently designed on iOS with similar theme elements and design language. All apps work well with no inconsistencies or bugs and do most of what I want; they’re all very polished. 
+
+Everyone recognises Apple design, but I think I prefer Material Design on Android. It just looks cleaner and more logical overall (less swiping everywhere), but then it's rarely done well- even from Google. iOS is very consistently designed across most apps.
+
+I don’t see why iOS apps have some extra options compared to Android apps, but they do, and small things like a vibration when you upvote a comment or like a Tweet are quite nice. Apps also open really quickly, though the animations slow that down- even if overscroll looks really nice.
+
+On the other hand, there are some weird things that just aren’t present. A big one is that most apps don’t seem to support landscape usage; YouTube, Twitter, Reddit, Discord...etc all these apps don’t allow you to use them in landscape when browsing, and I find this jarring (obviously you can view media in landscape). 
+
+Also, when in landscape you cannot use your finger to adjust the volume, yet this works fine when in portrait. Google Drive doesn't have dark mode for some reason either, but I know who to blame for that.
+
+Further, installing apps seem to take much longer than on Android, as does updating them- unsure of why this is. There also appears to be less FOSS apps, and more of a focus on subscriptions within apps. Of course, you use the Apple app store, or nothing; no Fdroid or APKs here! 
+
+Do I also really need to authenticate for every free app purchase? I seemingly have the option off so it doesn't require this, but I must have done something wrong as it still wants authentication.
+
+ **WebKit**
+
+For those who don’t know, WebKit is the browser engine behind Safari; every browser on iOS must be based on WebKit. This means that there are basically no differences between Safari, Chrome, Firefox...etc. A massive deal breaker for me is not having my Firefox app (which is actually on their browser engine) with uBlock Origin installed.
+
+I hate ads, and not being able to (as easily) block ads in my browser like I can on Android is very annoying. There are ways around this, but they are not as good as a desktop-level browser extension which is more powerful that any sort of blocker available. 
+
+I will concede that Safari runs very fast, way faster than the slow Firefox app on Android, but not having my beloved Firefox + uBlock combo is a big deal for me. 
+
+A DNS blocker is acceptable but doesn’t come close to the aforementioned combo, and obviously DNS filtering can’t block ads that come from a first-party domain; there’s no NewPipe to get around YouTube ads.
+
+Good read [here](https://infrequently.org/2021/04/progress-delayed/).
+
+**Authentication**
+
+Face ID feels like magic to me. It was so simple and easy to setup and works so perfectly- even in the dark. I know the Pixel 4 has this feature, but coming from an older Pixel which only has fingerprint authentication (which my fingers rarely work with), I absolutely love it! 
+
+Sure, masks cause problems (unless you have an Apple watch) but Face ID is so consistent and works so well that I really want to keep the iPhone for this alone. I don't understand why it doesn't work in landscape though.
+
+The security behind it is also much more than a standard face unlock feature on other Android phones (you need to actually be looking at the phone), and it working in the dark via ultrasound is neat. 
+
+Despite this, I can’t understand why the phone doesn’t just unlock if it has authenticated you- why do I still need to swipe up?!
+
+I would also really like to see Apple add Touch ID to the next iPhone via the power button to complement the feature. I know it’s on the new iPad, so unless they finally decide to go under- screen on the next iPhone I don’t see why this couldn’t happen.
+
+**Privacy**
+
+Neither Apple nor Google are your friend; no company is. However, I have a higher level of trust in Apple- a company who sells overpriced tech products, than Google- an ad-company. I disabled the Google app on my Pixel due to privacy concerns, yet I feel slightly happier trusting Siri (not that it can do much anyway).
+
+iCloud doesn’t have E2E encryption for most things no, but it at least feels more secure and integrated more tightly. The anti-tracking privacy features are good as companies are complaining about them (Facebook can get lost), and permissions also feel much more effective on iOS. 
+
+Being able to see when an app tries to access your clipboard, your microphone, or your camera is very nice, and having an LED indicator is even better. App privacy labels are a nice feature for the store too.
+
+I think you can achieve better privacy if you put in the work on Android, but out of the box on iOS, things are relatively acceptable. 
+
+This is coming from someone who uses a Pixel, and not an Android phone that has ads, Facebook pre-installed, or is from a Chinese manufacturer.
+
+ **iCloud**
+
+I don’t see iCloud trying to be a replacement cloud service provider, and they will never be when the default offering is only 5GB. iOS backups take iCloud space; backups on Android do not for app data. 
+
+I like how you can actually control specifically what is backed up, but on Android, a lot of this is done seamlessly and for free via Google Cloud. 
+
+Few things are E2E encrypted (see [here](https://www.reddit.com/r/privacy/comments/k7aeao/apple_icloud_and_icloud_backup_bre akdown_in_terms/)), which also doesn’t really make me inclined to switch off the current, more private, services I am already using. At least if I ever did want more storage the pricing tiers are relatively cheap.
+
+The general experience of using iCloud just feels confusing and buggy to me. It needs some refinement.
+
+**Updates**
+
+iOS is available on a few specific phone models only, so updates will always be better than on Android. I love how phones that are many years old are still getting iOS updates, and despite the hefty cost of buying an iPhone, you at least know that you are going to get many years of software patches. 
+
+I will quickly note here that installing updates seem to take a while; going from iOS 14.4.1 to iOS 14.5 took ages to install for some reason. The verification and install of 14.5 to 14.5.1 was also quite long for what was a small security update.
+
+I can’t comment on anything but a Pixel, but they receive a monthly patch which includes security and bug fixes, and sometimes extra features. My Pixel 2XL stopped receiving updates last year which means I don’t get any new features- except through the Play Store when apps are updated. 
+
+As has been discussed everywhere, iPhones last longer, and Google- especially with the Pixel- need to improve this. Hopefully their own silicone via the Whitechapel chip can offer a minimum of five years of updates.
+
+What I wanted to say for this is how OS components don’t seem to be separated from OS updates like they are in Android. Project Treble for Android is meant to help fragmentation by allowing core system components to be updated in the Play Store. 
+
+iOS technically doesn’t need something like this, but why do I need to do a whole OS update for something which could just be delivered as an app update?
+
+There are two different philosophies here really. On the one hand, Google release one major update each year with monthly patches that sometimes contain some features which are enabled by app updates. 
+
+On the other hand, Apple release one major update each year with minor follow-up updates on an irregular schedule that add extra features and functionality to both first-party apps and the OS. 
+
+I don't think one method is necessarily better, but I will admit that it's fun to be excited about updates again.
+
+**Ecosystem**
+
+I obviously must end with this. The Apple ecosystem is great, and if you start getting into it, I don’t really see why you would want to leave. If I were keeping this phone, I’d almost certainly end up buying an Apple Watch and AirPods, and oh why not also AirTags or something else Apple have on offer. 
+
+Android doesn’t really have an answer to this in my view, especially not right now from Google with the Pixel range, but who knows if that will ever change.
+
+In regard to iMessage, it’s actually not much of a pull factor for me. Whilst most of my friends and family all have iPhones, I don’t feel as though I’m missing anything by not having iMessage.
+
+We use other platforms (like Signal) to communicate, but maybe that is just a UK thing as I know other regions like the US use iMessage much more. 
+
+I did give both iMessage and Facetime a try though, and yeah they work flawlessly. Nothing more to say.
+
+The connection of Apple products through things like Handoff is nice, but only if you only have Apple products. I don’t like Macs, so it would feel less useful if I had an iPhone but then I’m still using my Windows PC. There is no Pushbullet app on iOS for obvious reasons. 
+
+Find My is quite useful, especially if you’re an all-Apple family I imagine, and if I had more devices it would be even better. Being able to easily share location or track any and all of your Apple products in one centralised app is convenient.
+
+**Miscellaneous**
+
+This section contains some unspecific nitpick complaints. Please don't take most of these ones too seriously.
+
+* Scrolling on iOS is both better and worse than Android. I like how you can drag the scrollbar to quick scroll somewhere (even if this is hard to do consistently) but scrolling definitely has smooth scroll enabled compared to a more accelerated scroll on Android (it’s like Edge vs Chrome on desktop). Returning to top is consistent on iOS, but it’s also there on Android in some cases.
+
+* Lack of many fully-featured web apps for Apple products makes it hard to want to invest in them. Why should I switch to Apple maps from Google maps, for instance, if I can only access one of them from Apple devices. The iCloud website offers some stuff but it’s not the same and having to be logged in is annoying.
+
+* RAM management is very strict on iOS, where closing an app means that that process is killed off. I understand that you are meant to treat the app switcher just as a way to access recent apps, and not a memory management tool, but sometimes an app might be closed (either by myself or the OS) and all background functions would suddenly stop.
+
+* Standby battery is very consistent. Project Doze on Android is still behind here, and unlike on Android, iOS doesn’t have any delayed notifications when the device does doze. I haven’t had the device long enough to judge general battery usage, but it’s expectedly better than my Pixel. 
+
+* The level of detail you get regarding the battery and usage statistics on iOS is impressive. Android feels like it’s fallen away a bit here whilst iOS has caught up and exceeded. 
+
+* I take back what I said about PIP: Android is ahead here and iOS is more limited. It still feels smoother on the iPhone, but that’s almost certainly down to device differences and not the OS.
+
+* In a similar area, the lack of split-screen is quite disappointing. It was something I used infrequently on my Pixel, but when I needed it, it was extremely handy. Shame it’s not here on iOS.
+
+* I can’t comment too much on digital assistants, as I don’t have the Google app enabled on my Pixel due to privacy reasons, but Siri is just... bad. It wants to look things up all the time rather than answering normally, but thankfully you can remove him from being on the power button- the inclusion there meant that I had to lookup how to actually turn off the phone initially (why can’t you remap this though).
+
+* You can’t properly change DPI on iOS; text scaling is not the same thing, nor does it work in every app. Bigger screen sure but they certainly haven't changed any UI elements to take advantage.
+
+* I am still not sold on True Tone. This feature either isn’t for me at all or it requires a very long testing period (have left it on all week), or maybe I am too used to my Pixel 2XL’s blue-tinted display. I definitely notice it, and I don't like it.
+
+* Autofill still feels way more consistent for me on iOS than Android. It seems to detect boxes more and doesn’t bug out when I try to autofill. So much better at least with Bitwarden. Autofilling 2FA codes via the keyboard is great as well.
+
+* Animations take a really long time. Reduced motion is a workaround option, but I’d rather just prefer to set animation speed to 0.5x like I do on Android.
+
+* iOS practically has no file management compared to the options you have available on Android, and this limits some of the things I can do with the phone. If you’re an Android user who thinks the Google files app is bad compared to third-party ones, then don’t look at the iOS files app.
+
+* Google Photos > Apple Photos still. I prefer how the Google app categorises photos (and can do so via each instance of a photo source), and the way it displays them separated and sorted by date is much cleaner.
+
+* The iOS dialler needs to let me control text input more easily. It’s difficult to add codes before you paste something in or adjust a mistype early on in the number.
+
+* Sound control on iOS is worse than on Android, even if there is an option to have the volume keys control ringer volume. On Android, you can control all volumes there in one go.
+
+* Whilst I haven’t seriously used it, Google Pay is more convenient to use than Apple Pay due to the lack of forced authentication. I know that I need to verify my PIN or use Face ID when making contactless payments, whereas this is an option to enable for Google Pay. Security is great, but I prefer the option as if someone has my phone, I have more things to worry about than just the ability for contactless to be used. 
+
+* On a similar note, having a card in the wallet delays putting the phone to sleep. I know you can turn off the double press for wallet, but then I can't authenticate a contactless purchase in advance. 
+
+* Why do I have to go into landscape to get extra calculator functions?! The usability of this is extremely bad. No wonder there still isn't an iPad calculator app; the iPhone one sucks.
+
+* For some reason, whilst you are able to change some sounds, there is no way to actually change the default notification sound for your apps- at least not universally. Some apps do have this functionality for them specifically, but it's rare.
+
+* The Shortcuts app is honestly like an official version of Android’s Tasker, only with slightly less potential. Haven’t really messed around with it too much, but lots of options available here.
+
+* I wish when you turned off Siri from the power button, holding the power button would open the power menu. There also needs to be an option for reboot there rather than just shut down.
+
+* I wish you could remove apps from the purchased apps list like you can on Android. You can hide them, but then they appear to be permanently moved to the “hidden purchased apps” list where you can’t remove them from there (or return them to the standard purchased list) even if you redownload them. This might be a bug though as it says you should be able to.
+
+* It’s quite nice to see that the app switcher doesn’t pause content on iOS. I can open the app switcher and my camera still works or my YouTube video still plays. Not like this at all on Android.
+
+* More default app options please! Maps, music player, messaging app, phone app...etc.
+
+* I miss the clock app telling me how long my alarm was set for. I know you can ask Siri to set an alarm for X amount of time but it was just nice on Android to enable an alarm and be instantly told how long until it would go off.
+
+* Is there really no way to set a custom reset date for mobile usage each month? On Android, you can view both mobile data and WiFi usage, and can set a custom reset date for mobile data and view each month's usage individually.
+
+* Disappointing amount of default wallpapers. I usually use a plain black wallpaper but damn Android has some really nice ones compared to the few available on iOS.
+
+* I still love how can remove all but about 10 default apps (even if these are only disabled). Just wish you could remove the Health app.
+
+* Auto-brightness works so well on iOS compared to Android. Could again be phone differences, but my Pixel is either too bright or too dark.
+
+* Auto-rotate behaviour on iOS is slightly different: with orientation locked, you can't rotate from one landscape view to the other (you can on Android), but then I see a use for this, so just pointing it out as another difference. The little pop-up on Android to temporarily disable rotation lock for your current app is missing though.
+
+* Double tap to wake VS single tap to wake. FIGHT! Really not sure what I prefer here, both do their job.
+
+* I'm sure the screen darkens way before the phone is set to auto-lock (no I'm not in low-power mode). Not sure if this is to do with attention-aware features, but I have my auto-lock set to two minutes and it feels like it darkens way before that. 
+
+* I tried Apollo and it’s great, but Android’s selection of Reddit apps are much better, sorry everyone.
+
+**Conclusion**
+
+Overall, I love the iPhone but I don’t really like iOS. I see why people do love it, and I could probably get used to many things. The issue is that the phrase “you will get used to it” is used too much for me, and I don’t see why I should try to force myself to get used to some things which I feel are just clearly problematic. 
+
+My areas of focus aren’t just growing pains; they are, I feel, genuine problems and drawbacks with the OS that are deal breakers for me personally. This review does focus more on negatives than positives, but in this case, I feel they are outweighed.
+
+iOS is not in any way worse than Android; it’s just different. The issue here is that those differences are the things that are causing problems for me, and I'm not sure that these are things I could settle on.
+
+I am sadly returning the iPhone and sticking with my Pixel 2XL until the end of the year. I would only ever buy an iPhone or Pixel for security and privacy reasons, so I will have my eyes set on the Pixel 6 for this year. 
+
+I will be looking into iOS 15 though; I definitely think that with some further iOS refinements I would be switching. The phone is already basically perfect for me so I would assume that the iPhone 13 would be even better. Please just have a smaller notch so there can be a battery percentage in the status bar.
+
+I really am disappointed to be returning it, as I truly love the phone itself, but there are so many nuance issues with iOS that I just don’t think I can put up with it. I just need some things to change so I can be properly enticed.
+
+Perhaps if I hadn’t had to pay so much for it, I would be more inclined and willing to put up with some of these issues. I could have the iPhone as a secondary device, but at its hefty price, it’s not something I could do personally- if only they went on sale.
+
+**Outro**
+
+At approximately five-thousand words, writing this was enjoyable to fully give my thoughts on things, and I hope it was useful for anyone reading. 
+
+This second post will likely be the last in this mini-saga for me. Who knows though: I could be back in Q421 with another update.
+
+This post (like my previous one) was originally posted on /r/GooglePixel and then also cross-posted to /r/iPhone. If this content is found elsewhere, it was not done so by me.
+
+These reviews are written for fun, but I appreciate any support! I'll try to reply to some comments, but probably won’t go as in-depth as I did on my previous post with responses.
+
+Cheers everyone!

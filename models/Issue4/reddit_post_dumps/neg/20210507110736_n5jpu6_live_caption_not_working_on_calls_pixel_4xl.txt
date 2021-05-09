@@ -1,0 +1,5 @@
+https://www.reddit.com/r/GooglePixel/comments/n5jpu6/live_caption_not_working_on_calls_pixel_4xl/
+
+Live Caption Not Working On Calls (Pixel 4XL)
+
+I'm hard of hearing and rely heavily on Live Caption for calls to use my pixel as a telephone. However recently this function has stopped working and I'm at a complete loss as to why. I believe it happened with a recent update that added a blue 'someone is speaking' indicator to the call screen. I've checked all of the settings and reinstalled Device Personalization Services and no dice. Anyone had this issue?

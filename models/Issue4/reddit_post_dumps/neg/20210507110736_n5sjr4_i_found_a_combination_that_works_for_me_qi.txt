@@ -1,0 +1,17 @@
+https://www.reddit.com/r/GooglePixel/comments/n5sjr4/i_found_a_combination_that_works_for_me_qi/
+
+I found a combination that works (for me) QI wirless charging for Pixel 4a5g
+
+I've never had wireless charging before, but it's quite nice and convenient. May not be the best there is but this combo works reliably (for me). This combo charges at \~1000-1100 mah, whereas the pixel wired quick charger is \~3300-3400 mah. BTW, I used Ampere to get these numbers. IMO, wireless charging is a good overnight charger, not for quick charging. 
+
+[Nillkin Qi Receiver (Long version)](https://www.amazon.com/gp/product/B07CVY818V) , [INIU Wireless Charger](https://www.amazon.com/gp/product/B08LVSFN4X) 
+
+I'm using the long version of the receiver, the short one placed the receiver to low in the stand to activate charging (I had to use a spacer to physically move the phone up for the "short" one to work). The long version positions it just in the right spot and I only see a very small sliver of the receiver in the fingerprint hole of my case. 
+
+I would also suggest one of the thicker cases, I'm using a [Spigen Liquid Air Armor](https://www.amazon.com/gp/product/B08D6429BD) , this way I can leave the receiver plugged in and the case is thick enough around the charging hole to protect the plug. 
+
+I tried a different foldable stand but had to many bright lights on for my taste (although it did work decently). 
+
+I also tried a [MyMax](https://www.amazon.com/gp/product/B07XD75XY3) receiver, which promised a higher charge. It was a higher charge and would charge at about 1300 mah, but about 5-10 seconds later the phone would just stop charging and wouldn't start again until I removed the phone and placed it back on the charging stand, (with the same results 5-10 seconds later). 
+
+This isn't a review, only what worked for me, hope it helps someone!

@@ -1,0 +1,7 @@
+https://www.reddit.com/r/GooglePixel/comments/mt45yy/bluetooth_issues_since_april_update/
+
+Bluetooth issues since April Update
+
+Ever since the April update, I've noticed an issue regarding many audio dropouts on my Swing Galaxy Buds+ earbuds. Sometimes they'll actually disconnect entirely for a few seconds then reconnect. When this happens, the only solution is to reboot my phone. Toggling Bluetooth or putting the Buds back in their case and reconnecting doesn't help. 
+
+Anyone else having more Bluetooth connection issues since the most recent update?

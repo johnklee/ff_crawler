@@ -1,0 +1,9 @@
+https://www.reddit.com/r/GooglePixel/comments/n5kgvt/pixel_4a_screen_rotate_blocking_access_to_settings/
+
+Pixel 4a screen rotate blocking access to settings.
+
+Hi 
+
+When rotating the screen for any app, I can't now access the settings bar from the drag down. Such as the brightness bar. Is there a setting I can turn this back on with
+ 
+Thanks

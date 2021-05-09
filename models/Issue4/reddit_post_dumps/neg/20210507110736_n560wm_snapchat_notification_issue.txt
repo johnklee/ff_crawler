@@ -1,0 +1,5 @@
+https://www.reddit.com/r/GooglePixel/comments/n560wm/snapchat_notification_issue/
+
+Snapchat Notification Issue
+
+Over the past couple days I have had issues getting any notifications from snapchat. Before it would give a sound, vibrate and show a notification on the lock screen. Now it doesn't do any. Unless I open the app I would have no way of knowing I had any snapchats. I checked my settings and notifications were turned on, I even changed the sound for it. Still nothing. I uninstalled snapchat and then reinstalled it, and still nothing. Any ideas for what I can do?

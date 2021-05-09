@@ -1,0 +1,9 @@
+https://www.reddit.com/r/GooglePixel/comments/mvq3xf/charge_speed_for_3xl/
+
+Charge speed for 3XL?
+
+For some reason I'm only getting 1000mA while its off and have low battery. And 500mA while its on! (Using accubattery)
+
+Why is my phone suddenly not charging as fast?  What speeds do you guys get?
+
+Im using an 18w fast charger from UGREEN.

@@ -1,0 +1,5 @@
+https://www.reddit.com/r/GooglePixel/comments/n3naa5/help_bluetooth_device_name_not_showing_when/
+
+[HELP] Bluetooth device name not showing when pairing, only MAC address.
+
+I've seen others mention this issue with no real solution. When I go to pair a new device, I only see a long list of MAC addresses and not the device names. SOME of the device names will eventually show but there seems to be no correlation to resetting bluetooth or anything like that. I live in an apartment so this creates issues when I want to pair a new device. Strange thing is, I've never had this problem before. I have devices I have paired previously with no problem like this. Anyone running into this issue in general or more recently?

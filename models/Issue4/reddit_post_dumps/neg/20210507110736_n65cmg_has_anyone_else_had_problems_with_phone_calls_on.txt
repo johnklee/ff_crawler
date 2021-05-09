@@ -1,0 +1,17 @@
+https://www.reddit.com/r/GooglePixel/comments/n65cmg/has_anyone_else_had_problems_with_phone_calls_on/
+
+Has anyone else had problems with phone calls on their Pixels lately?
+
+My problems started a few weeks ago. A co-worker would call me, but when we connected, I couldn't hear her. Texts were unaffected. I never found out what that was about. The next day, it seemed to resolve itself.
+
+A few weeks later, it happened again, and it wasn't limited to that one co-worker. It happened to another. Again, I didn't worry too much about it. I barely use the phone, and I have 5 LOUs (T-Mobile's free lines: "Line On Us") and 2 Google Voices, so I have many ways of talking to someone if I need to. Besides, I was in the middle of a work day. Again, the problem seemed to go away. I never tried to text this time, so I don't know if texting was affected. ~~This time, texts were sluggish and a bit delayed (\~5 minutes), but they worked.~~
+
+Yesterday, the weirdness escalated. When I log into one particular work database, my login is authenticated with an automated call to my phone; I have to answer and press #. (I'd prefer Google Authenticator or Authy or something, but I don't get to make those decisions.) Yesterday, the authenticating phone calls were automatically forwarded to voicemail. I couldn't verify my login and couldn't get into the database. Texts were sluggish and a bit delayed (\~5 minutes), but they worked. Like before, the phone issues went away after a few hours.
+
+Just now, it happened again. But this time it was weird. I could call myself (using my GV), but the authentication phone call was forwarded to VM. Yesterday, all calls were being forwarded to VM.
+
+I rebooted my phone, and that seemed to do the trick. I was able to get the verification call. At first, I thought this was a T-Mobile issue, but now it seems this is an issue with my phone, a Pixel 4a 5G: A reboot fixed it, and my wife (iPhone 12 mini) hasn't had these issues.
+
+Has this happened to anyone else? Is there a fix? Obviously, rebooting my phone all the time isn't optimal, to say nothing of the fact that I'm not always going to know to reboot my phone before someone tries to call me.
+
+**TL;DR I've had issues with phone calls (i.e., calls mysteriously forwarding to VM and not being able to hear callers). A reboot of my Pixel 4a 5G seemed to fix this. Has anyone else experienced this? How'd you fix it?**

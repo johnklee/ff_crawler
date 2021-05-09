@@ -1,0 +1,15 @@
+https://www.reddit.com/r/GooglePixel/comments/mt2pjq/og_pixel_android_keeps_killing_ftp_server_despite/
+
+OG Pixel: Android keeps killing FTP server, despite battery optimizations off.
+
+I have a Pixel 1 for dedicated photos original quality backup. It's on the latest released android version. I have Solid Explorer installed for FTP server and it's set to "do not optimize battery". 
+
+After some time, android will kill the server and even though the persistent notification says "server running", when I open the app, it's not actually running and I have to press the "start server". 
+
+Every now and then, the phone will again kill the server and I have to manually start it again. 
+
+This also happens with other ftp apps like "Wifi FTP" etc so it's not the problem with solid explorer app. It's the problem with android. Every other apps also show persistent notification saying server is running but when I open the app, it's disabled after some time.
+
+Anyone know a way to fix this?
+
+I have VPN to my home network and it would be a huge shame when I go travelling and the phone kills the server while I'm out.

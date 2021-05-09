@@ -1,0 +1,9 @@
+https://www.reddit.com/r/GooglePixel/comments/mwyoh8/pixel_3_support_with_connecting_over_bluetooth_to/
+
+Pixel 3 support with connecting over bluetooth to a Honda CRV (2015)
+
+Hello All!
+
+The problem: I need some help. I have a pixel 3, updated to android 11 with the newest security update. the problem is when I connect it to my car I can no longer skip tracks from the steering wheel. The car will connect and play music. In addition, the song and artist no longer appear in the heads-up display, and in the menu the car says the cant connect to the phone over bluetooth. 
+
+I worked with pixel support this morning, and they reset my network and connection settings, i tried launching in safe mode, and reset my cars software (factory reset) nothing is working.

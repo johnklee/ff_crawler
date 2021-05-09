@@ -1,0 +1,7 @@
+https://www.reddit.com/r/GooglePixel/comments/mwelt7/a_question_about_notifications/
+
+a question about notifications
+
+it's important that i be notified by a certain app, but sometimes it won't notify me until the screen turns on. i have the app set not to optimize it's battery usage, and the phone is not in battery saver mode or do not disturb. how do i prevent this from happening? 
+
+device is a pixel 4a 5g running android 11

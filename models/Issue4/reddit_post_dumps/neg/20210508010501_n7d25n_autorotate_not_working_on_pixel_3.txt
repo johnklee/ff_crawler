@@ -1,0 +1,7 @@
+https://www.reddit.com/r/GooglePixel/comments/n7d25n/autorotate_not_working_on_pixel_3/
+
+Auto-rotate not working on Pixel 3.
+
+Auto-rotate has suddenly stopped working on my Pixel 3. I've tried resetting multiple times and turning auto-rotate on and off multiple times. I've also made sure auto rotate is actually on when I try it. Is this a common issue with any fixes? Thanks. When I do sensor tests, it appears the x axis a working, but the y axis is at a constant 42 and z is at 155. So it's giving information but it just seems to be stuck on those two axis.
+
+Ok I fixed it by dropping it on my bed a few times. I remember I dropped it on the floor today, not high up on a rug so the impact wasn't too hard. Will update if it stops working again.

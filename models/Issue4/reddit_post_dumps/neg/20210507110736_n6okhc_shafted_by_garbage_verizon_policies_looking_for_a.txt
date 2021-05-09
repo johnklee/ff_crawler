@@ -1,0 +1,17 @@
+https://www.reddit.com/r/GooglePixel/comments/n6okhc/shafted_by_garbage_verizon_policies_looking_for_a/
+
+Shafted by garbage Verizon policies, looking for a way out
+
+Hi everyone, you'll have to pardon my ignorance with all of this security stuff. I was into doing hacky stuff to my phone as a kid, but became a good complacent little sheep in college, and am just now starting to take the cybersecurity plunge.
+
+I've recently, but not recently enough (November 2020 ish so I'm outside of the warranty window) upgraded with Verizon's edge plan to a Pixel 5. I've been loyal to Pixel ever since the first one, and I've always gone with them because I've always tried to be at least a little privacy conscious, for a normie, and I only use my phone as a bootloader for Reddit and a web browser anyway so I didn't want any Samsung or Apple crapware on there.
+
+So when, as usual, I broke my phone beyond usability, I decided to upgrade to the Pixel 5 with the intention of putting GrapheneOS on there when it came out. Well it came out, and *imagine my shock* when I found out that a Billion Dollar Company did something scummy! Turns out Verizon locks their bootloaders!
+
+Remembering all the times I jailbroke my iPod or rooted my Galaxy devices as a kid, I felt undeterred, thinking that the bootloader lock was merely a suggestion. I was ready to don my Gunnars, put on some funky keygen music, and do some hacking, but to no avail! Now all I have is a sad, factory reset Pixel and some hours that I'll never get back.
+
+Thus, I've come here seeking advice. I'm more than ready to switch carriers, but my current phone will be locked forever, and I have no dollars to replace it with. I have one of those Edge plans (my Mommy pays for it for me, love you Mom), and AFAIK the other carriers won't buy those out. And even then that would leave me without a phone and with no money to replace it with.
+
+Anyway, that was really long so, here's the short version of my predicament:
+
+Pixel 5, Verizon, 6 months into an Edge plan, bootloader is locked, want to flash GrapheneOS. Open to switching. I'll consider stopgap fixes as long as it's privacy conscious. Appreciate the help.

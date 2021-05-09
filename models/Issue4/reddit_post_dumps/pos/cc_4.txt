@@ -1,0 +1,7 @@
+https://forums.androidcentral.com/google-pixel-4a-pixel-4a-5g/1024777-anyone-bluetooth-issues-after-last-update-pixel-4a5g.html
+
+Anyone with Bluetooth issues after the last update? Pixel 4a5G
+
+Since the last update I've been experiencing some issues with Bluetooth. If I'm driving through an area where there's a WiFi network saved that my phone might connect to (one operated by the local cable company, places I've been and connected to the WiFi before, open networks that Fi automatically connects me to), when it connects to those networks the audio gets interrupted then is sped up or I just miss whatever played during the interruption. Before this occasionally I was experiencing random pauses, and sometimes the bluetooth device was disconnecting and then reconnecting (this one was rare) but it happened several times.
+
+When I'm driving my phone is connected to an Anker Roav B2 to get audio to my car (but that might be changing, I'm test driving a new car tomorrow but the one they think they will have for me is in transit still). I have my phone set to auto launch Android Auto when it connects to the Roav. It doesn't seem like the "puck" is disconnecting as AA remains on the screen and the audio doesn't pause, where if it was disconnecting the audio would pause and AA would exit. I did forget and re-add the device but the issue persists. I haven't had this issue this bad until this week, the only change was the OS update on Monday...

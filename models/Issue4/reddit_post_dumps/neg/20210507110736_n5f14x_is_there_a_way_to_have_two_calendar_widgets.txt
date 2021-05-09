@@ -1,0 +1,5 @@
+https://www.reddit.com/r/GooglePixel/comments/n5f14x/is_there_a_way_to_have_two_calendar_widgets/
+
+Is there a way to have two calendar widgets showing two different calendars? (Pixel 2)
+
+I have my regular calendar for mostly personal use, however I recently started managing some Airbnbs and want to have quick access to my Airbnb calendar from the home screen.  I linked Airbnb to my calendar and setup another widget but when I turn settings on and off on one widget it does it to the other one too.  I tried looking through the settings but didn't see anything right away to let me do this.  Is there another way to do this?

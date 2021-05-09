@@ -1,0 +1,9 @@
+https://support.google.com/pixelphone/thread/93370669/google-pixel-4a-5g-problem-connecting-with-bluetooth-headphones-only-right-side-speaker-is-working?hl=en
+
+Google pixel 4a 5g problem connecting with Bluetooth headphones (only right side speaker is working)
+
+I have updated my phone, I have tried clearing the cache and storage for both phone and Bluetooth device, I have tried changing the AVRCP version and I have had no change at all, is this a software issue or a hardware issue ? 
+What is going on ? 
+Please Help
+
+Thank you

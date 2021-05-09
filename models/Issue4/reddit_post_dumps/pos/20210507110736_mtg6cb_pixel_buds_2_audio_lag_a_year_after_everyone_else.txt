@@ -1,0 +1,8 @@
+https://www.reddit.com/r/GooglePixel/comments/mtg6cb/pixel_buds_2_audio_lag_a_year_after_everyone_else/
+
+Pixel buds 2 Audio lag a year after everyone else
+
+Self explanatory title, a few days ago I started getting like a half second audio delay with my Pixel buds 2 to my Pixel 4 XL. The app updated like a day later (3 days ago from today) 
+And I'm wondering if I'm not the only one getting this issue now or if my pixel buds are just somehow just not functioning properly
+
+Edit: So I contacted google and I can't believe I didn't do this myself but the steps I was given was to forget the earbuds from my bluetooth settings and then open the case and hold the pairing button for 30 seconds until the light stopped flashing and right off the bat it's fixed my issue but I'll keep this updated if the problem returns

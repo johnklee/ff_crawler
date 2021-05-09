@@ -1,0 +1,7 @@
+https://www.reddit.com/r/GooglePixel/comments/n5arjw/my_pixel_3a_makes_two_chimes_after_plugging_in/
+
+My Pixel 3a makes two chimes after plugging in. They are about 5 seconds apart. Does anyone else know why or have the same issue?
+
+I recently cleaned the USB C port but I can't recall if that is when it started or if it was doing it before. I am pretty sure it did it before and that is what made me think to clean the port.
+
+Some added comments and notes below but in total I can't find a connection issue. I'm going to need to try another USB C charger to see if it is my charger.  Try isolate the issue. 

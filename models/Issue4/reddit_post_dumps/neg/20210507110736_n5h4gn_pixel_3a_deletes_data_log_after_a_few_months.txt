@@ -1,0 +1,5 @@
+https://www.reddit.com/r/GooglePixel/comments/n5h4gn/pixel_3a_deletes_data_log_after_a_few_months/
+
+Pixel 3a deletes data log after a few months
+
+Ok so I've been trying for a while to find an app that tracks data and and store this data for more that 3-4 months however it looks like there's a hardcoded time that the 3a stores data usage info for and then deletes it. Does anyone know a possible way to increase this time  or an app that can overcome this. Thanks

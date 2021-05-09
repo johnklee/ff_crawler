@@ -1,0 +1,5 @@
+https://www.reddit.com/r/GooglePixel/comments/mt34mw/cleaned_my_fingerprint_sensor_thoroughly_but/
+
+Cleaned my fingerprint sensor thoroughly but still get "Fingerprint sensor is dirty. Please clean and try again" when trying to unlock or retrain it.
+
+I've tried everything to clean it as well as my fingers but no luck..

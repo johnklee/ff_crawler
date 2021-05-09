@@ -1,0 +1,11 @@
+https://www.reddit.com/r/GooglePixel/comments/msz5fk/pixel_3_android_11_just_started_bootlooping_is/
+
+Pixel 3 (Android 11) just started bootlooping... is this common?
+
+this is bringing back my Nexus 5x nightmare...  
+
+Out of the blue, my Pixel 3 just started bootlooping.  I finally was able to boot it up and shut it down, but it took a while.
+
+Is this common?
+
+If I get it back up, should I just run a factory reset?

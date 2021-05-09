@@ -1,0 +1,15 @@
+https://www.reddit.com/r/GooglePixel/comments/n6prw9/pixel_3_some_images_lose_sharpness_when_viewed_in/
+
+Pixel 3 - Some images lose sharpness when viewed in gallery immediately after taking the photo
+
+We just got a new Pixel 3 for my wife. She was really looking forward to using the highly regarded Pixel camera as she does a lot of close-up flower and butterfly photography. So it was rather disappointing when after her first photo session she reported that some of the images appeared "blurry".
+
+I've been testing the phone camera all day and it appears to be a software issue, not hardware. What I'm observing is that if we open the Gallery immediately after taking a picture, for a split second the image appears perfectly sharp, but then the sharpness is lost due to the introduction of grain/noise.
+
+Here's a video I took showing an example of this. The video shows me taking a picture, then opening the Gallery, and you can see how the image loses sharpness between the 4 second to the 6 second mark in the video.
+
+Here are still frames from the video to show even more clearly the transition from sharp to unsharp. It's very much like the image is being run through an aggressive JPEG compressor.
+
+When I swipe the image away, then go back to the image in the gallery, the original sharp image now shows. So clearly the camera is taking a good picture, but it is definitely annoying for it to show the grainy compressed image in the gallery when we first view it. My wife does not like this behavior one bit as it makes it appear that the camera is not taking a good picture. I have also observed that occasionally the image will then show the spinning "processing" icon, which does not seem to go away until I swipe the image away.
+
+Any ideas what might be the issue here, and more importantly what can I do to fix it? I have already tried the clear cache and data from the Camera app, uninstalled all updates, then reinstall the latest camera app update and restart phone procedure I saw others post for issues with "fuzzy" pictures, but this did not help, and the situation I'm seeing seems slightly different, as the actual picture taken is clear, just the initial view of the picture in the Gallery is not.

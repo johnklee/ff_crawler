@@ -1,0 +1,11 @@
+https://www.reddit.com/r/GooglePixel/comments/n5rsuw/yesterday_i_upgraded_my_samsung_s5_to_google/
+
+Yesterday I upgraded my Samsung S5 to Google Pixel 3a and am absolutely loving it so far. First non Galaxy phone since 2013. 2x the memory and 4x the storage capacity on this baby..Super fast and responsive. NO LAG (yet)!!!! .$175 Canadian used. But an issue has now arose in the past few hours.....
+
+At first, when I pulled down the tray from the top of the screen it gave me an estimation of what time my battery was good until at the top right. Even this morning. It literally give a TIME. 5:30PM it said.
+
+Now today I went and installing all my apps that I had on the S5 to the GP3a. Setting and permissions get changed along the way and now there is nothing at the top saying how much battery time is left. Or SPECIFICALLY what clock time the battery should be good until.
+
+Not sure what I changed that caused that but I \*NEED\* to get that clock time estimate back. That was extremely handy. Anyone know where the setting is or the process/steps to get that back????
+
+GP3a is on Android 11. A big jump from 6.0.1 on the S5 so I have no clue where anything is on here yet.

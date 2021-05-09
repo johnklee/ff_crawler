@@ -1,0 +1,6 @@
+https://www.reddit.com/r/GooglePixel/comments/n5niqv/pixel_5_not_showing_as_an_adb_device/
+
+Pixel 5 not showing as an ADB Device
+
+Friend of mine tried to flash an image to his pixel 5 without experience. The pixel is now stuck in Fastboot mode but at least unlocked and ready for a flash. I have attempted to flash all ADB Devices connected via USB but the command is not picking up any devices.
+Any Ideas

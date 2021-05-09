@@ -1,0 +1,12 @@
+https://support.google.com/pixelphone/thread/103595776/my-pixel-3-won-t-connect-to-wifi-or-bluetooth-and-the-settings-app-ends-up-crashing?hl=en
+
+My Pixel 3 won't connect to WiFi or Bluetooth and the Settings app ends up crashing
+
+My phone will not connect to WiFi or Bluetooth anymore. I tried pressing the icons in the top drop down bar and in the settings app. In the settings app, it won't even search act like it is search. The same thing happens when I try to turn on bluetooth.
+
+Also the settings app randomly crashes when I try to turn WiFI and bluetooth on.
+
+I have restarted my phone, power cycling it, forgetting the network, etc. Same issue.
+
+I restored the phone to factory settings and it worked for about 8 hours before the same exact issue cropped up again.
+Details

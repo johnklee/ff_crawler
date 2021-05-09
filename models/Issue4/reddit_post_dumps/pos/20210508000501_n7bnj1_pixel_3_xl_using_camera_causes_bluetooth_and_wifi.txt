@@ -1,0 +1,5 @@
+https://www.reddit.com/r/GooglePixel/comments/n7bnj1/pixel_3_xl_using_camera_causes_bluetooth_and_wifi/
+
+Pixel 3 XL: Using camera causes Bluetooth and wifi to shut off
+
+I bought my pixel 3 XL last year used and began having problems with the Bluetooth and Wi-Fi pretty quickly. After paying attention to what I was doing with the phone when this would happen, I have discovered that it happens anytime I try to use the camera. Whether I'm taking pictures, taking video, doing a live stream, or anything else, the Wi-Fi will disconnect and act like there are no networks, and the Bluetooth just turns itself off. Restarting the phone seems to fix this. I called Google a long time ago, before I knew that it was an issue caused by the camera, and they told me that the motherboard was bad and would have to be replaced and I should just buy a new phone. With this extra little bit of information, is there a chance that there is maybe some sort of software issue that can be fixed?

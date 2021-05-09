@@ -1,0 +1,9 @@
+https://www.reddit.com/r/GooglePixel/comments/mylirl/pictureinpicture_trouble/
+
+Picture-in-picture trouble
+
+Ever since the Android 11 April 5 update, the picture-in-picture feature on my Pixel 5 hasn't been working properly. When I exit apps (Netflix, YouTube, Twitch, etc) audio continues but the PnP doesn't appear unless I enter then exit the Task Switcher. I also can't move the PnP without it disappearing. 
+
+Anyone else having this issue and/or know a solution?
+
+Edit: spelling

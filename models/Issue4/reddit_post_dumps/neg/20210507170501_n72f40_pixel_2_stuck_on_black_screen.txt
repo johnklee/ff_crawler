@@ -1,0 +1,7 @@
+https://www.reddit.com/r/GooglePixel/comments/n72f40/pixel_2_stuck_on_black_screen/
+
+Pixel 2: Stuck on Black Screen.
+
+So my phone crashed and soft rebooted itself but it was missing the notifications bar so I did a hard reboot. Now the phone screen is staying black except with booting up and when holding the power button which is now showing a simplified power options showing only Shutdown, Reboot, and Lockdown. I can still feel vibrations. The phone is bootloader unlocked and I can access the bootloader.
+
+What can I do to fix this? I've already tried factory restoring it (while keeping user data.)

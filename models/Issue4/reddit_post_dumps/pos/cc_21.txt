@@ -1,0 +1,14 @@
+https://support.google.com/pixelphone/thread/88192841/pixel-4a-5g-does-not-connect-to-any-bluetooth-device-same-scenario-with-a-rma-replacement?hl=en
+
+Pixel 4a 5G - Does not connect to any Bluetooth device. Same scenario with a RMA replacement
+
+Hello Pixel Community,
+
+I received my first Pixel 4a 5G last week Tuesday.    Love the device, however the Bluetooth simply does not connect to anything.    Went thru the troubleshooting steps with support of factory reset.  Same problem.
+Thus,  I was sent a new RMA replacement.     I just finished setting the device up... Lo and Behold,  SAME problem.   Does not connect to my car Bluetooth,  doesn't connect to my Sous Vide, Soundbar, nVidia Shield.    
+
+What's interesting, is my car doesn't see the device, but then displays the Bluetooth MAC of the phone,  then fails when connecting.   My phone DOES NOT see the Bluetooth name of my car.   However,  my phone does see Bluetooth names of other devices listed above, it simply fails to connect to any of them.
+
+Whip out the old Pixel 2... boom, connects to all devices listed above without issue.
+
+Please advise.   Is there a bad batch of Pixel 4a 5G's?

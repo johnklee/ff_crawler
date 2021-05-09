@@ -1,0 +1,5 @@
+https://www.reddit.com/r/GooglePixel/comments/jmoeoh/bluetooth_issues_with_pixel_5/
+
+Bluetooth issues with Pixel 5?
+
+I don't have my Pixel 5 yet (still being processed by my carrier), but I did read someone had some issues with their Bluetooth media information not displaying correctly on their vehicle's information system. Their issue was the AVCRP profile (Wiki link). I'm not sure if this would be related to your problem, but their solution was to flip back to 1.4 in the developer options. Certain vehicles only have compatibility up to a certain AVCRP version and don't support the newer information provided by the source device (the Pixel 5, in this case).

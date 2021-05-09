@@ -1,0 +1,33 @@
+https://www.reddit.com/r/GooglePixel/comments/liqdkv/pixel_3_android_11_will_no_longer_connect_to/	
+
+Pixel 3 (Android 11) will no longer connect to Windows 10 PC via Bluetooth. Help?
+
+I've been connecting my Pixel 3 on Android 11 to my Windows 10 desktop via Bluetooth for months to take calls, message etc via Windows 10's Your Phone app. Worked flawlessly throughout last year.
+
+Then a few months ago, my phone refused to communicate with the PC over BT. It will still pair, but won't remain connected - it'll try to connect for half a second, and then fail. The PC still seems to think it's connected, but the Pixel doesn't.
+
+I just found this isn't limited to my desktop PC either - the Pixel also won't connect to another W10 laptop. Seems to be rejecting connecting to W10 in general.
+
+I can still use other BT peripherals with both the Pixel and the desktop PC just fine, they just can't seem to work together. Both devices have had regular system updates recently, and I'm assuming that's the culprit - I just can't for the life of me figure out what's done it.
+
+Troubleshooting on PC I've tried:
+
+- Reinstalling Bluetooth drivers
+
+- Using a different BT adapter (currently using a TPLink
+
+- Forgetting/re-pairing all devices
+
+
+
+Troubleshooting on phone:
+
+- Forgetting/re-pairing all devices
+
+- Clearing BT app cache and storage
+
+
+
+PC has had regular system updates; last windows update installed was KB5001028 on Feb 12.
+
+After Googling my ass off for weeks I'm at my wit's end. Has anyone else had this issue that they've managed to resolve?

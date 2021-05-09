@@ -1,0 +1,7 @@
+https://www.reddit.com/r/GooglePixel/comments/n6wl8i/pixel_4a_stopped_detecting_carrier_networks/
+
+Pixel 4a stopped detecting carrier networks. Looking for solutions (no warranty).
+
+I bought the phone for my mom, and she accidentally caused water damage which voided the warranty. The problem itself appeared only a few months after I bought the phone. 
+
+We've tried different SIM cards, none work. The phone still recognises the fact that a SIM card has been inserted, but it doesn't detect any networks to latch onto. We've factory reset it many times, and updated the OS, but to no avail. I'm considering flashing an older version of Android, but I don't know if it would be a waste of time.

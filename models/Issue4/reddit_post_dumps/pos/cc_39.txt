@@ -1,0 +1,5 @@
+https://support.google.com/pixelphone/thread/15059417/is-anyone-having-connectivity-issues-with-their-pixel-3-xl-after-installing-android-10?hl=en
+
+Is anyone having connectivity issues with their Pixel 3 XL after installing android 10?
+
+Before android 10 I never had issues with my pixel 3xl. The last few days I've had issues with Bluetooth devices staying connected, texts and emails being received consistently, and today for the first time ever I lost all service while indoors.  I was in a Walgreens I have been in a number of times before and my call dropped, checked my phone and saw I had no service, thats never happened before. I checked Verizon's outage map and there are no issues in my area (central Indiana). Is anyone else having these issues or know of any solutions?

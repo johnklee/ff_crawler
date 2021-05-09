@@ -1,0 +1,125 @@
+https://www.reddit.com/r/GooglePixel/comments/mzx5jo/google_pixel_4a_stuck_on_fastboot_failed_to/
+
+Google pixel 4a stuck on fastboot: failed to verify/load boot images
+
+**Content Table:**
+
+* *-Explanations*
+* *-State of the phone*
+* *-What I have tried and doesn't work*
+* *-What I have not tried and why*
+* *-Other similar posts and why this is different*
+* *-Additional information about the phone*
+* *-Why I am making this post*
+
+&#x200B;
+
+***-Explanations:***
+
+I bought this phone this way. The guys that sold it to me said that it suddenly went into this state. He didn't know why but suggested it might have gone to this state during an update. 
+
+So just to clarify what is going on: The phone does not boot up at all when I want it to. When I plug it in, it randomly (usually after about 2 hours of being plugged in) boots to fastboot with **Enter reason** : failed to verify/load boot images and **Device state:** Error. When I try to access either **Power Off/Rescue Mode/Recovery** Mode it simply shuts down an reboots into fastboot mode after about 2 hours of being plugged in with the same enter reason. 
+
+The **Start** option simply instantly sends it to the same fastboot screen with the same error message. **Bar code** option does its job and shows IMEI, Serial number etc.. 
+
+The **restart bootloader** option shuts it down and after about 2 hours of being plugged in, boots back into fastboot mode with enter reason being "reboot bootloader". I haven't tried anything commands from this fastboot enter reason. Device state is still "error"
+
+&#x200B;
+
+***State of the phone:*** 
+
+Allow OEM unlocking is disabled. Developper options are disabled. Usb debugging is disabled as the guy who sold it to me probably didn't even knew about those settings. 
+
+Adb is not able to see phone since it is in fastboot mode and not adb sideload or something else like that
+
+Storage should not be encrypted since no pin/pattern is used to unlock the phone
+
+&#x200B;
+
+***What I have tried and doesn't work:***
+
+**-**Draining the battery on bar code screen and charging again
+
+\-Entering rescue mode from fastboot or power + volume up/down
+
+\-Entering recovery mode from fastboot or power + volume up/down
+
+\-Flashing factory image from [flash.android.com](https://flash.android.com) exits with error "Fastboot command (flash:bootloader\_a) failed: 'error getting device locked state No Response'"
+
+\-Repairing using the online tool [https://pixelrepair.withgoogle.com/](https://pixelrepair.withgoogle.com/). It sees the device and i can select it but it is "Unable to connect the phone." because this tool only works if the phone is in rescue mode which I can't access.
+
+\-Unlocking bootlaoder using fastboot command in linux. Since device is in "error" state, it did not allow with error code "FAILED (remote: 'Error getting device locked state No Response')"
+
+\-Switching boot slot to the other one (b). Since device is in "error" state did not allow with error "FAILED (remote: 'error getting device locked state No Response')"
+
+&#x200B;
+
+***What I have not tried and why:***
+
+\-Physically opening it and checking to see if there are any loose connections : because I am no where near a hardware specialist and I don't want to risk voiding warranty if any
+
+\-Sending it to google for repair under warranty : To google's perspective I am not the owner of the phone (the previous owner is) and he need to make the requests but does not have time/knowledge to do so
+
+&#x200B;
+
+***Other similar posts and why this is different:***
+
+[***https://www.reddit.com/r/GooglePixel/comments/kycmyo/new\_pixel\_4a\_5g\_randomly\_stuck\_in\_fastboot\_mode/***](https://www.reddit.com/r/GooglePixel/comments/kycmyo/new_pixel_4a_5g_randomly_stuck_in_fastboot_mode/)
+
+The phone is a Google pixel 4a 5G and he is unable to issue fastboot commands. I still can issue commands but low permissions one
+
+&#x200B;
+
+[https://support.google.com/pixelphone/thread/84668400?hl=en](https://support.google.com/pixelphone/thread/84668400?hl=en)
+
+The person on this post can see the google logo. I can't. Although I can see the snapdragon logo for about 1 second when it boots into fastboot
+
+&#x200B;
+
+[https://www.droidwin.com/fix-error-boot-prepare-device-stuck-in-fastboot-pixel-devices/](https://www.droidwin.com/fix-error-boot-prepare-device-stuck-in-fastboot-pixel-devices/)
+
+The person is trying to temper/modify the software. The software on my Google pixel 4a has not been tempered with. (By a human, probably corrupted by software bug during update)
+
+&#x200B;
+
+[https://www.reddit.com/r/GooglePixel/comments/fk2myq/pixel\_4\_stuck\_on\_fastboot\_mode\_screen/](https://www.reddit.com/r/GooglePixel/comments/fk2myq/pixel_4_stuck_on_fastboot_mode_screen/)
+
+The issue is similar but the solutions are either send it to google or use the online repair tool. In both cases I cannot apply the solution for reasons described above.
+
+&#x200B;
+
+***Additional information that appears on the phone (but I can't really understand the meaning of):***
+
+**Product revs:** sunfish MP1.0(Na)
+
+**Bootloader revs**: s5-0.3-7062598
+
+**Secure-Boot:** PRODUCTION
+
+**NOS production :** Error
+
+**Ddr**: 6GB Micron LPDDR4X
+
+**Ufs:** 128GB Micron
+
+**Device state:** error!
+
+**Enter Reason:** Failed to verify/load boot images
+
+**Model :** Google Pixel 4a
+
+&#x200B;
+
+***Why I am making this post:***
+
+1 - I have not seen this issue anywhere else on the internet for the Google Pixel 4a
+
+2 - I don't know everything about fastboot and maybe I missed a command that would allow me to unlock the bootloader with something signed by google ?
+
+3 - There must be other people with the same issue therefore answers on this post will help them fix their phone.
+
+4 - I hope that someone will have had the same problem but unlike me, managed to fix it and maybe they can help me. 
+
+&#x200B;
+
+**Thanks for your replies in advance !**

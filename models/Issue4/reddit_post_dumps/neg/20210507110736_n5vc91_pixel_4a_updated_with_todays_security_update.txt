@@ -1,0 +1,14 @@
+https://www.reddit.com/r/GooglePixel/comments/n5vc91/pixel_4a_updated_with_todays_security_update/
+
+Pixel 4A updated with today's Security Update. Phone is now running very slow and touch sensitivity is off.
+
+I'm unsure if it's a coincidence, or if it's actually the update. 
+I have restarted the phone and it hasn't improved the issue. I've also checked and made sure the apps it's affecting are up to date. 
+
+As an example, after the update when messaging people on Facebook Messenger, my typing isn't being picked up correctly and the bubble keeps closing itself. 
+Also, when split screening apps my phone has noticeable lag. 
+
+The phone itself is only a couple of months old and hasn't been damaged (no dropping, water exposure etc).
+
+
+Any ideas on what I should or could do? Has this happened to anyone else (I suspect the Messenger issue would be most visible if it was)?

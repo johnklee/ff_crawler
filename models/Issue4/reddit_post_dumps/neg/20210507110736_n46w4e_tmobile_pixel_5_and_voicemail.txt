@@ -1,0 +1,9 @@
+https://www.reddit.com/r/GooglePixel/comments/n46w4e/tmobile_pixel_5_and_voicemail/
+
+Tmobile pixel 5 and voicemail
+
+I switched from Verizon to T-Mobile and noticed that my voicemail is no longer integrated with the built-in phone app and instead I had to install a TMobile visual voicemail app.
+
+Is this just the way it works with TMobile or should I expect to have the voicemail integrated with the pixel phone app like I used to have when I was with Verizon?
+
+UPDATE: Nothing worked in settings, I even tried clearing the storage of the phone app also. Restarts.. nothing worked. The t mobile visual voicemail app worked, but the voicemail button was gone from the phone diaper app. Factory resetting the pixel fixed the problem.

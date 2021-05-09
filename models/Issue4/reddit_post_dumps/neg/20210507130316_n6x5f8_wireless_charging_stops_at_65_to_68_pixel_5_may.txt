@@ -1,0 +1,11 @@
+https://www.reddit.com/r/GooglePixel/comments/n6x5f8/wireless_charging_stops_at_65_to_68_pixel_5_may/
+
+Wireless Charging Stops at 65% to 68% - Pixel 5 May '21 Update
+
+Applied the May 2021 update 2 days ago. Left my Pixel 5 on the Pixel Stand overnight to charge.
+
+Woke up this morning to find it overheating and stopped at 68%. Thought I misplaced it or I moved it a little bit through the night so stopped charging. I placed it back on the stand. I come back an hour later, still stuck at 65%.
+
+Restarted the phone, removed it from its case and placed it on the stand again. 30 mins later, no improvement. Charging via cable with no issue.
+
+Any similar cases or explanation?

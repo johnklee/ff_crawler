@@ -1,0 +1,17 @@
+https://www.reddit.com/r/GooglePixel/comments/n1193m/pixel_3_xl_stuck_in_bootloop_no_fastboot_options/
+
+Pixel 3 XL Stuck in Bootloop, No Fastboot Options, No Safemode - MY SOLUTION
+
+My Pixel 3 XL decided to get itself into a bootloop (I was chatting with my syster on whatsapp trying to help her fix an issue on her notebook)
+
+I seen a lot of people that got luck flicking the power button, so I tried that (no cigar)
+
+Like many others I have seen here I couldn't seem to get any options for recovery etc once into Fastboot mode (power + vol down). On fastboot screen if I would press any key (vol up, vol down) it would get back into reboot loop. If I did not press any key at all after X seconds (maybe 10 or 15s) it would get back into the reboot loop. The power + vol up would get me to a screen with android on his back and a message «no commands», again as soon as I pressed any button it would get back into bootloop and if I did not press anything after X seconds it would get back into bootloop
+
+No way to get into safemode or any other mode that helps me fix this damned beloved thingie.I did let the phone run out of power and then try to get  fastboot as soon as I put a power source back but no cigar I would get back at the same as written above.
+
+On my quest for a solution I found out that Google is a crap in my country (Portugal / Europe), the devices are sold here but there is no official repair partners and trying to get it to Google for repair is another endless loop of webpages. I AM PISSED AT YOU Google.
+
+Then I found ifixit and their tools to open the phone and decided to have it a go since I am a tech guy and had a few of them already (if you do not have any don't worry).I took out the power and volume keys (really take them off their sockets) and decided to press those buttons using my own tools and as soon as I did that I was able to get  the phone powered off (was impossible before) more options on the fastboot and also safemode and from then on it was easy  (you can try to boot it and see if it works properly and if not you can try resetting it or worst case scenario the dreaded factory reset. (If you do not have proper tools, \*with care and caution\* some rough ones might work - like an thin x-act - can do the trick)
+
+Hope this helps someone.

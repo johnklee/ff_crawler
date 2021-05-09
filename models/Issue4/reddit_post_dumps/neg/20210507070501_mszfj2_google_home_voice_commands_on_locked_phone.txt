@@ -1,0 +1,5 @@
+https://www.reddit.com/r/GooglePixel/comments/mszfj2/google_home_voice_commands_on_locked_phone/
+
+Google Home Voice Commands On Locked Phone
+
+I recently switched to a Pixel 4A 5G from an iphone and set up my Hue lights with Google Home. The voice commands are working great while my phone is unlocked, but is there a way to allow lights to be changed through voice commands while phone is locked? I'm able to send texts, make calls, etc while phone is locked. I'm only prompted to unlock phone when doing voice commands for the lights.

@@ -1,0 +1,17 @@
+https://forum.dji.com/thread-200760-1-1.html
+
+Constant Bluetooth disconnects with Pixel 4 XL and Pixel 2
+
+Hi, I am having a constant Bluetooth disconnection problem since the recent updates. Prior to that it was fine and I was using Mimo with my Pixel 2. I upgraded to a Pixel 4 XL and the timelapse function and regular shooting functions are unreliable. Bluetooth drops out and things have to be restarted and disconnected. It seems to be a consistent issue with the Mimo app only, as regular timelapse and shooting is fine with the default camera app on my phones. I would like to use Mimo for the active track functions though.
+
+Can DJI please look into this? I note there are other posts on this forum with users reporting Bluetooth unreliability since the recent updates.
+
+I have tried the following:
+
+- Disable all WiFi in home
+- Disable all signal from nearby phones, essentially putting them into airplane mode
+- Uninstalling the DJI Go 4 app
+- Restarting Bluetooth and repairing
+- Ensuring all batteries are fully charged
+
+Please help!

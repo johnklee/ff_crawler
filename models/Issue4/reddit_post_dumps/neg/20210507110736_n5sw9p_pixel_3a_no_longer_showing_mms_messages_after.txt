@@ -1,0 +1,5 @@
+https://www.reddit.com/r/GooglePixel/comments/n5sw9p/pixel_3a_no_longer_showing_mms_messages_after/
+
+Pixel 3a no longer showing MMS messages after latest update
+
+I installed this month's security/bug update this afternoon, and since then my phone has been unable to download or display MMS messages (i.e. pictures/video over the text network). I've had two people try to send them and all I get is the loading wheel that displays while an image is downloading -- which usually takes a long time, granted, but not three hours. Switching to a different client does nothing. Anybody else having this?

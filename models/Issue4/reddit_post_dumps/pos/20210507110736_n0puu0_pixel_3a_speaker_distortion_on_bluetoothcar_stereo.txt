@@ -1,0 +1,7 @@
+https://www.reddit.com/r/GooglePixel/comments/n0puu0/pixel_3a_speaker_distortion_on_bluetoothcar_stereo/
+
+Pixel 3a: speaker distortion on Bluetooth/car stereo
+
+I bought a used car with an older stereo, no Bluetooth. So I bought a GROM bluetooth adaptor for my car stereo, and a mobile mechanic installed it for me. The radio works fine. The Bluetooth works fine on the installer's phone (he came back and did some troubleshooting for me). It works fine on my son's phone (GalaxyS9). But my phone (Google Pixel 3a XL) has distortion in the speakers with any kind of bass. So I tried my old phone (Essential Ph-1) and it ALSO had distortion. Not sure what to do. I don't think it's the app (YouTube Music) because I tried Spotify and Pandora and had the same problem. I am considering getting a new phone, but that seems like a pretty big step just to avoid distortion on my speakers. And I'm worried the problem might be ME somehow since the speakers work fine for my son and the installer. (My Google account?) Anyway, anyone have any ideas?
+
+(Cross posting to r/bluetooth too)

@@ -1,0 +1,5 @@
+https://www.reddit.com/r/GooglePixel/comments/jmoeoh/bluetooth_issues_with_pixel_5/
+
+Bluetooth issues with Pixel 5?
+
+I paired my new Pixel 5 with my 2017 Forester. It appears to only be connecting with the call only profile and not the A2DP profile. So thus I'm unable to use my multimedia controls on my Forester, only call controls. Is anyone else having a similar issue? I did forget it and re-connected it with the same results.

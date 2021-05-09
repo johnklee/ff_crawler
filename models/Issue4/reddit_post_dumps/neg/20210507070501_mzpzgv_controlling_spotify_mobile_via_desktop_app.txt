@@ -1,0 +1,7 @@
+https://www.reddit.com/r/GooglePixel/comments/mzpzgv/controlling_spotify_mobile_via_desktop_app/
+
+Controlling Spotify Mobile Via Desktop App
+
+I'm trying to figure out a setup where I'm listening to spotify on my Pixel 4a via bluetooth earbuds and controlling it using the Desktop App/windows widget (phone has better audio quality over connecting it directly to the pc). Pretty much everything worse fine; however, if I pause Spotify for more than a few minutes, eventually the desktop app "forgets" about the session on the phone, and it will default to playing audio through the computer, dropping the phone from the Connect to a Device option. Even if I press play on the phone rather than the PC, it will often switch to playing on the PC.
+
+I believe this has to do with a battery saving setting or something about background processes on my phone, but for the life of me I haven't been able to find where I can change that supposed setting, even after scouring the battery or app-specific settings. Anybody have any ideas?

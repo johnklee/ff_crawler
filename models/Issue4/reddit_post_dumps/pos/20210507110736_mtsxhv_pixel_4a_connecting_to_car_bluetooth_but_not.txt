@@ -1,0 +1,11 @@
+https://www.reddit.com/r/GooglePixel/comments/mtsxhv/pixel_4a_connecting_to_car_bluetooth_but_not/
+
+Pixel 4a connecting to car bluetooth, but not displaying song info
+
+I bought a Pixel 4a 5g today. Excited about the switch from a pretty old iPhone. 
+
+However, when I connect the phone to bluetooth in my car (2013 Volkswagen Golf), the audio plays, and I can skip songs, etc., but the song info doesn't come up on the display.  
+
+I tried a few things that didn't solve the problem: went into developer mode and changed some bluetooth settings (recommended by an older post in this sub), unpaired then repaired, and I'm currently updating to android 11, hoping that works. 
+
+Any other suggestions to solve this minor annoyance?

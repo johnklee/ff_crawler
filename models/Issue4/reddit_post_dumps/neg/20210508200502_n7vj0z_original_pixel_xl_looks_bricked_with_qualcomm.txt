@@ -1,0 +1,11 @@
+https://www.reddit.com/r/GooglePixel/comments/n7vj0z/original_pixel_xl_looks_bricked_with_qualcomm/
+
+Original Pixel XL looks bricked with Qualcomm HS-USB QDLoader 9008 in Windows device manager
+
+I'm trying to use my old Pixel (1) XL after it has been turned off for about 8 months.  After a long period, it was not used, I was trying to just turn it on and I just got the battery screen showing it needed a charge.  So I grabbed the power brick and cable to give it some juice.  No matter what I tried I could not get anything to show up on the screen after that.
+
+I then tried plugging it into my PC and see if anything was able to be done from the inside.  Now in device manager, all I can get to show up is "Qualcomm HS-USB QDLoader 9008 (COM3)".  I have tried various things like "adb devices" and "fastboot devices" but the phone never shows up by showing me the serial number as it should.
+
+So at this point I have no way to reset my phone by to factory defaults.  I have nothing I care about on this phone, and I can't remember if I ever unlocked it or not (I think I was happy using the stock ROM).  My goal is to just restore it to its original glory from the day I bought it many years ago then give it to my son to use as a media player.
+
+Any ideas as to what I can try so that it will show up in adb devices?  I have already downloaded the latest "android platform-tools" as well as the "[marlin-qp1a.191005.007.a3-factory-bef66533.zip](https://marlin-qp1a.191005.007.a3-factory-bef66533.zip)" used for my Pixel XL specifically.  I just need it to show up in the tools.

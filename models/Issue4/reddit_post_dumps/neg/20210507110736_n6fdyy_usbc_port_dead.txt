@@ -1,0 +1,9 @@
+https://www.reddit.com/r/GooglePixel/comments/n6fdyy/usbc_port_dead/
+
+USB-C port dead?
+
+My Pixel 3XL will no longer charge via its USB-C port with multiple cables that have worked and the past and still work on other devices. For a while, I could only charge it with a cable in one orientation even though the port is theoretically orientation-insensitive. I can currently only charge it wirelessly which makes it hard to keep the phone charged while traveling (a renewed concern).
+
+Is this a hardware failure or is there possibly a way to clean gunk out from the port or attempt some sort of software mitigation?
+
+Does Google provide any service on this outside of warranty?

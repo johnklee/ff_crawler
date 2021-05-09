@@ -1,0 +1,7 @@
+https://www.reddit.com/r/GooglePixel/comments/n67wfj/pixel_4a_linear_accelerometer_issue_maybe_bug/
+
+Pixel 4a Linear Accelerometer Issue (maybe bug?)
+
+Hey,
+
+I am working with Android sensors and today I discovered some weird behavior on my Pixel 4a. The Android sensor API provides both an Acceleration sensor (with g-force) and a Linear Acceleration sensor (without g). The z-Axis is by default pointing upwards from the screen plane, so if I hold the phone flat in my hand and move it upwards, I should be able to measure a positive increase in vertical acceleration along the z-axis for both sensor types. This works as expected on my old moto g6, however, on my Pixel 4a I measure a decrease in acceleration in case of the Linear Acceleration sensor (positive for the normal Acceleration sensor). This confuses me, as the graphs should look identical except for the g-offset. I also tested this along the other axes and get the same weird behavior. It feels like the signs of the axes for the linear accelerometer might be switched? I tested this using three different apps but they all show the same behavior. Maybe someone who also has the Pixel 4a can help me confirm this?

@@ -1,0 +1,22 @@
+https://www.reddit.com/r/GooglePixel/comments/n7k6n8/weird_shit_going_on_with_my_phone_discordspotify/
+
+Weird shit going on with my phone (Discord/Spotify)
+
+For some reason, within the past week or two, discord and Spotify refuse to play nicely with each other. I have a Pixel 4a and got it at launch, and I have never experienced anything similar to this. I've searched around quite a bit for this issue and can't find any information. I would assume anyone with the same device would be my best chance to get help.
+
+
+I've tried
+
+-Restating my phone
+
+-Force closing both apps
+
+-Force closing or swiping discord out of the recent apps page (Works temporarily, until I need to open it again) 
+
+
+Whenever Discord is open in the background, Spotify will not load anything and says that there is no internet connection. If I swipe Discord away or force stop it, and then return to Spotify it instantly loads everything and acts normally again.
+
+
+Anyone else having these issues? If so, any permanent fixes?
+
+This is the strangest thing I've had happen on any phone ever.

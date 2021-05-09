@@ -1,0 +1,13 @@
+https://www.reddit.com/r/GooglePixel/comments/mwhctw/pixel_3xl_camera_fix_after_android_11_update/
+
+Pixel 3XL camera fix after Android 11 update
+
+To all those who's camera doesn't work after updating to Android 11, Google doesn't seem to care, they don't even acknowledge the problem. I'm guessing that, like me, you also have issues with the gallery. Here's the solution I found:
+
+1. Installed Camera PX from xda-developers. Honestly seems to be working better than the original. This will get you a usable camera app
+
+2. Setting - apps & .. - camera, clear cache & storage - disable app
+
+Enjoy your functioning pixel camera again, no thx to G.
+
+This works perfectly for my Pixel 3 XL. Might be a solution for 2 & 4 too, let us know if it does.

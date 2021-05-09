@@ -1,0 +1,7 @@
+https://www.reddit.com/r/GooglePixel/comments/n6s0gi/sending_messages_via_google_assistant_doesnt_work/
+
+Sending messages via Google Assistant doesn't work, even though it says "Message sent."
+
+Hey, I'm having trouble with sending messages via Google Assistant, and I'd appreciate any help with this. Namely, if I pull the assistant up and say "send message", I get the "who do you wanna message?" thing. I choose a contact, press "send", and then it says that the message has been sent. However, if I click on "Open SMS", nothing happens, the supposedly sent message doesn't appear in the Messages app, and people I've tried sending the message to also didn't actually receive anything.
+
+I checked the Google Assistant settings, and access to SMS is enabled. I've also tried disabling it, rebooting, and then re-enabling it, but everything is still the same. Googling the issue doesn't get me anywhere, either, so if anyone knows how to fix this, that'd be great.

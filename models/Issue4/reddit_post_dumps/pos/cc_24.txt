@@ -1,0 +1,8 @@
+https://support.google.com/pixelphone/thread/103362532/my-pixel-4a-wifi-and-bluetooth-function-are-not-working?hl=en
+
+My pixel 4a wifi and bluetooth function are not working
+
+the wifi and bluebooth functions went wrong suddenly since yesterday night.
+my pixel 4a cannot search any wifi network and/or bluebooth device while my other smart phones are using the same wifi network.
+I have rebooted many times and finally I did the factory reset just now.
+My pixel cannot search any wifi and bluebooth after the reset and I guess if the motherboard went wrong?

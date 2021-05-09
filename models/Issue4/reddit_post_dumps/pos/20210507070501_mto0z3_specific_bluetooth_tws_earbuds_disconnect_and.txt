@@ -1,0 +1,9 @@
+https://www.reddit.com/r/GooglePixel/comments/mto0z3/specific_bluetooth_tws_earbuds_disconnect_and/
+
+Specific Bluetooth TWS earbuds disconnect and reconnect every 30 sec only during calls.
+
+My Bluetooth 5.0 TWS (Monster Clarity 102 plus Airlinks) disconnect after 20 sec on any kind of call (normal, WhatsApp, Discord) in my Pixel 5, and then connects back.
+It repeats too do that in cycles of about 30 sec.
+I tried the support article to change Bluetooth AVRCP and MAP versions to 1.6,1.4 respectively and reboot the phone, but it didn't help.
+The Airlinks work fine on OnePlus 7 With Android 11 phone.
+Anker Liberty Neo earbuds Work fine with my Pixel 5.

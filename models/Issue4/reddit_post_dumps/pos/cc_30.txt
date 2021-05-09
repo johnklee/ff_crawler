@@ -1,0 +1,22 @@
+https://support.google.com/pixelphone/thread/21889103/pixel-3-xl-bluetooth-keeps-stopping?hl=en
+
+Pixel 3 XL - Bluetooth Keeps Stopping
+
+Hi, I bought a 3 XL two weeks ago and it's a great phone
+
+Since last week I keep getting the error Bluetooth Keeps Stopping
+
+The prompt keeps happening every 5 seconds and the phone is near unusable
+
+I've tried the following:
+Multiple restarts*
+Switching off the phone overnight*
+Reset network settings
+Switching off Bluetooth Scanning and Location Services and restarting*
+Factory Reset*
+
+Solutions marked with a * would give me a 2-3  hour fix but it doesn't always work
+
+Furthermore it's not a foolproof fix and it's frustrating to keep doing it every few hours
+
+I see that it's not uncommon but no permanent fix is available

@@ -1,0 +1,18 @@
+https://f30.bimmerpost.com/forums/showthread.php?t=1782239
+
+Bluetooth issue with Pixel 5
+
+I recently switched to a Pixel 5 and I'm having issues with Bluetooth streaming audio on my 2017 440xi GC.
+
+The phone will connect and call functions work.
+It shows that the phone is connected for Bluetooth audio and I'm able to select it as a media source, but there is no sound.
+
+I tried multiple music apps and the Pixel 5 works fine with my 2013 Ford F150.
+
+I did some research and have tried the following with no luck:
+
+- Updated iDrive SW to the latest version
+- On my phone, changed the Bluetooth AVRCP Version to 1.4, 1.5 (default), and 1.6. I restarted the phone after every change.
+- On my phone, disabled Bluetooth A2DP hardware offload setting. I restarted the phone after making the change.
+
+I would appreciate it if anyone could offer any tips or tricks to get this working!

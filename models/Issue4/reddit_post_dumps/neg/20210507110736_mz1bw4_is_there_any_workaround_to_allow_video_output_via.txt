@@ -1,0 +1,6 @@
+https://www.reddit.com/r/GooglePixel/comments/mz1bw4/is_there_any_workaround_to_allow_video_output_via/
+
+Is there any workaround to allow video output via USB C
+
+I know Google intentionally disabled this to sell Chromecast, but is there really no way?
+I'd hate to buy a chromecast just to browse some tabs on the big screen or play some Cloud Gaming

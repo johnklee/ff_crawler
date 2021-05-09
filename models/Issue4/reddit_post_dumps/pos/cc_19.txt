@@ -1,0 +1,5 @@
+https://support.google.com/pixelphone/thread/90625272/after-december-update-car-bluetooth-issue?hl=en
+
+After December update car Bluetooth issue
+
+After a December 2020 update suddenly no media information for songs are displaying on the mmi in our car. This is present on both our pixel 4a and 3a XL. We've tried resetting the car and resetting Bluetooth settings on the phones but to no avail. Any help would be greatly appreciated.

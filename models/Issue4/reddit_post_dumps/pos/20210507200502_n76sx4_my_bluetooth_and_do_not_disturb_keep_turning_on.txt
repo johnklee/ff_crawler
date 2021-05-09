@@ -1,0 +1,9 @@
+https://www.reddit.com/r/GooglePixel/comments/n76sx4/my_bluetooth_and_do_not_disturb_keep_turning_on/
+
+My Bluetooth and do not disturb keep turning on by themselves.
+
+Not sure why, but for the last week or so my phone's Bluetooth and do not disturb keep turning themselves on without any action from me. 
+
+I thought it was a virus but I did a scan with an antivirus and even did a factory reset and the problem persists. 
+
+Is this a known bug/issue or some new setting I don't know about?

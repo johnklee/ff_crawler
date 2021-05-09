@@ -1,0 +1,11 @@
+https://www.reddit.com/r/GooglePixel/comments/n61bg0/pixel_4a_call_quality_vs_pixel_3/
+
+Pixel 4a Call Quality vs Pixel 3
+
+Hey all.  I have a Pixel 3 that is dying (bootloop due to power button sticking).  I'm considering the 4a, but want to know about it's call quality.  One thing that's bugged me about the Pixel 3 is that the phone call quality hasn't been great:
+
+* Static sound during calls (this seems to have been fixed with a software update, but curious to know if the 4a struggles here)
+* Call volume: Even at the lowest setting, the volume is quite loud (toggling hearing aid capability seems to help, but again I'd like the 4a to just work).  The 3 used to also start calls at an extremely high volume, but I think a software updated fixed this as well- haven't noticed it
+* Automatically starting speakerphone: Pixel 3 occasionally will answer a call with speakerphone when I don't expect it
+
+Besides that, I've been happy with the 3 (and I've had the Nexus 5/5X in the past).  Just want to check to see what other's experiences have been on these issues.  If you have any other complaints (or raves), interested in those, too

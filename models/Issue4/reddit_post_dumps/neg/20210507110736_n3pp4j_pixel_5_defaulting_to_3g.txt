@@ -1,0 +1,5 @@
+https://www.reddit.com/r/GooglePixel/comments/n3pp4j/pixel_5_defaulting_to_3g/
+
+Pixel 5 Defaulting to 3G?
+
+So I've had this phone since August and I've had an issue arise the last month or two where my phone picks 3G, even when 4G/5G is available, I KNOW it's available because if I go into *#*#4636#*#* menu and click LTE/5G only it connects but if I set it back to any network it defaults to 3G again, anyone had a similar issue? I'm with Optus in Melbourne if that helps

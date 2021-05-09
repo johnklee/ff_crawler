@@ -1,0 +1,9 @@
+https://www.reddit.com/r/GooglePixel/comments/n6aiby/smart_lock_issues/
+
+Smart Lock issues
+
+My Smart Lock (Pixel 5) began malfunctioning a few weeks back, where it no longer stays unlocked at my house, even though I've confirmed the location a couple different times.
+
+I've tried turning the location off and on, moving my home pin and moving it back, restarting my phone, etc. without any success.
+
+Does anyone have any other ideas on how to get this to reengage? Definitely a first world problem and doesn't make me enjoy my Pixel any less, but it's annoying that it is showing as enabled but not working as expected.

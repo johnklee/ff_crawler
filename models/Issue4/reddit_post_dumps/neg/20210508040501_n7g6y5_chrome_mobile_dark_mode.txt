@@ -1,0 +1,5 @@
+https://www.reddit.com/r/GooglePixel/comments/n7g6y5/chrome_mobile_dark_mode/
+
+Chrome mobile dark mode
+
+Even though I have the chrome flag "dark mode for web content" enabled, pages are still showing in the light theme. Any suggestions?

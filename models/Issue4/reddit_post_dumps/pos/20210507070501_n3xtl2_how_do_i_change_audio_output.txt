@@ -1,0 +1,13 @@
+https://www.reddit.com/r/GooglePixel/comments/n3xtl2/how_do_i_change_audio_output/
+
+How do I change audio output???
+
+On my old LG, I could swipe down from the top, and there was an audio output setting so even if I was connected via bluetooth, I could toggle to the phone speakers for a bit. I can't find this option on my pixel 5. 
+
+The only workarounds I've found are: 
+
+1) turn bluetooth off completely
+
+2) open a music player, start a song playing over bluetooth, pause the song, then swipe down to the music player control, and switch the audio output there. 
+
+This seems like such an obvious thing to need, and it's so frustrating to not have it available!

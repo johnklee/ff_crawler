@@ -1,0 +1,5 @@
+https://www.reddit.com/r/GooglePixel/comments/n5t4is/pixel_4a_5g_stuck_on_optimizing_apps_for_security/
+
+Pixel 4a 5G stuck on Optimizing apps for security app.
+
+Hey guys I've tried updating to the may update and its stayed on optimizing apps for about 20 mins now. I only have like 10 apps so not a lot. I paused the update, is it safe to restart and try again? Or what should I do? I'm downloading over 5G wifi and 5G data and it's still not making a difference.

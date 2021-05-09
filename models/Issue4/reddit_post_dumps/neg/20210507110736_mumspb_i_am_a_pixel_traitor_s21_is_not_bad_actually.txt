@@ -1,0 +1,39 @@
+https://www.reddit.com/r/GooglePixel/comments/mumspb/i_am_a_pixel_traitor_s21_is_not_bad_actually/
+
+I am a pixel traitor. S21 is not bad actually.
+
+Hi, I just wanna share my thoughts on pixel QA issues, S21, iOS and the state of pixel in my country (outside of USA, of course)
+
+I never thought I will be a pixel traitor, but I was quite fed up with my pixel 4xl. It's got 2 problems, the face ID failed me and there's no fix to that, and the battery connector has issues and I am not covered by warranty. (Because I live in a place called HK and Google doesn't officially sell the phone here)
+
+To make matters worse for pixel, the local 5g network doesn't support Pixel 5. Being so fed up with pixel 4xl issues and pixel 5 not supported by the new and fancy 5g network, I started to look at other options. First, iPhone 12 Pro Max
+
+iPhone is a beautiful phone, and I love the apple official silicone case, it's perfect. Great screen, solid build, but not so good battery life IMO. Nice camera, but coming from pixel 4xl, I don't think the iPhone 12 pro max camera is beating pixel by a mile or something, they are just different.
+
+Here comes the buts. The iPhone is HEAVY, I think my hands are a bit sore sometimes from using it single handedly... iOS is oh so passionate about blocking Google products. Say if you googled a youtube video and then wanna play it through the app, you can't do that. Google Assistant is severely sandbagged. And almost all of the iOS apps are paid apps. It's very very hard to backup your photos to Google drive. It feels like iPhone is just the beginning of Apple's money grab and they just wanna continuously milk you for money here and there. Get the homepod, apple music, icloud, airpods... No. I am really sick of it.
+
+Another surprisingly disappointing thing is, the haptics are rarely used in iOS now. You can't even have vibration when you type on the offical keyboard now.
+
+So I sold my 12 pro max for a S21.
+
+I was expecting bloatware and bixby, turns out, it's not a thing anymore. 
+
+You can use ADB to remove all the bloatwares that you don't want. And throw lawnchair app in there. It feels like 90% pixel already.
+
+I don't like the look of the S21 series, but the official silicone case helps to make up for it. I would say the case is of a quality even higher than that of the apple ones. Pleasantly surprised. The camera produces images very very similar to that of pixels actually. Great screen of course, 120hz, can't complain really; with 888, buttery smooth man. Also, Samsung put in these sets of buttons that can adjust audio quality and help you set equalizers, it's actually quite nice. Dedicated media and google home menu. Finally, I love the phone size, that's why i got this phone in the first place.
+
+I can think of a couple of downsides to the S21
+
+1. the camera app is laggy, i don't know why, but that is the case... Quite bit disappointing in 2021...
+2. flip to shhh is gone. I find that very very useful now that i lost it.
+3. Under screen finger print scanner sucks! Pixel, DONT DO UNDER SCREEN SENSOR PLEASE!!!!
+4. Using glass screen protector is frustrating because of the fingerprint scanner. I don't like that.
+4. Battery life is not good, but it doesn't matter, I go from charger to charger.
+5. I have the pixel stand, it still works but it charges slower (doesn't matter if you only charge it at night, it has the whole night to charge anyways)
+6. Glitchy google assistant. When you ask google assistant to countdown for 3 minutes, the alarm only sounds when it's like 4 and a half minute-ish, frustrating! 
+
+But I am still making the S21 look and feel like a pixel. I loved the vanilla android experience and the hardware actually isn't that bad. It's just that samsung now has really got their shit together and pixel is somehow not expanding into regions outside of USA... 
+
+I will always love you pixel.
+
+Edit: guys, the traitor thing, im not serious at all about it! it's just that i really prefer the pixel software, but my current circumstance makes samsung so good that i jumped ship, thats all, just an expression!

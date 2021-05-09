@@ -1,0 +1,17 @@
+https://www.reddit.com/r/GooglePixel/comments/n4lnxo/pixel_5_no_sound_when_picking_up_a_phone_call/
+
+Pixel 5: No sound when picking up a phone call
+
+Hello everyone,
+
+Kind of a weird one but, I was wondering if someone has this issue.Everytime I get a phone call and pick up,  I get no sound. I think people hear me but not the otherway around. Changing from earspeaker to speaker does nothing. Only solution I have found is to end the call and call back.I also tried shutting down my bluetooth without succes.
+
+Anyone  strugling with this or  with a possible solution?
+
+Thanks in advance,
+
+Jack  
+
+
+EDIT: Factory reset phone to no avail. Did an update of the phone app in the playstore and that seems to have helped.   
+Other people reported that disabling wifi calls fixes the problem if your provider supports that. 

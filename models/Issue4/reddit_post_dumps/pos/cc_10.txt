@@ -1,0 +1,9 @@
+https://community.fitbit.com/t5/Android-App/Unable-to-pair-Charge-3-with-Pixel-3/td-p/3016971
+
+Unable to pair Charge 3 with Pixel 3
+
+Hi, I just got the C3 this past week right in the middle of a phone change. On the Pixel 2 it paired fairly easy but with the new Pixel 3 it's not pairing at all. I've done the restarting of the C3 ana that doesn't help. When I go to Bluetooth on my phone and it searches for Bluetooth devices it's hit and miss with finding the C3. The times it does find and you try to pair it just keeps trying and then stops. As another possible solution, I  didn't want to remove the device from the Fitbit app yet to see if this will help due to losing previous data. Are there any other possible solutions. I can say this seems like something that Fitbit missed. Bluetooth has been around a long time now and Fitbit devices have been using them for just as long. I don't believe the new phone has any Bluetooth issues because it has connected to other devices.
+
+ 
+
+Update- for anyone with a Pixel 3 device with pairing issues you will want to delete the tracker in the Fitbit app if you've previously had one in there. Then you'll want to add a new tracker and selrcs the Charge 3. If your Bluetooth is off then the app should ask permission to turn it on. Say yes of course. Next it's advisable to connect the C3 to the charger, then press and hold the C3 recessed button on the left side for 8 seconds. This is while the Fitbit app is open on the screen searching for the tracker. Once the tracker restarts then hit try again in the app. Once it does this it should find the tracker to pair. This was a little wonky. What should happen to save users time and frustration is with the tracker already showing up in to the app from a previous setup with a another phone,  it should pair easily without the need to remove it, connect the tracker to the charger and then restarting it .

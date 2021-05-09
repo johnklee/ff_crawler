@@ -1,0 +1,19 @@
+https://www.reddit.com/r/GooglePixel/comments/n5l1wn/widevine_issue_on_pixel_5_is_persisting/
+
+Widevine issue on Pixel 5 is persisting
+
+The issue with widevine reverting to L3 has persisted since the May 2021 update.
+
+This is the message I got from Google after I moaned again at them again:
+
+"My name is Barry and I’m part of the Google Hardware Support team. I’m reaching out to let you know you've reached the highest tier of support. I've reviewed your previous support interaction and would like to apologize for any inconvenience caused.
+
+Thanks for taking the time to report this. We're currently investigating this issue, however we do not have any resolution at this time. Check out the Pixel forums for future updates. Thank you for your patience.
+
+As an appeasement we have added 10 GBP Store credit on your Store account. The credits will expire on 2022-05-05 00:00:00 PDT.
+
+Appreciate your patience and understanding. 
+
+Thanks!
+Barry
+The Google Support Team"

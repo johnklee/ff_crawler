@@ -1,0 +1,9 @@
+https://www.reddit.com/r/GooglePixel/comments/n5goo5/pixel_4a_5g/
+
+Pixel 4a 5g
+
+Running Android version 11. I use zoom on my phone and every single call goes in and out. It usually only happens 1-2 times per call. The best way to describe it is that it seems like someone is turning the volume down and 10 seconds later it just comes back. 
+
+I have tried un-installing the app, but I dont think it is on the app side. I think its more of an issue with the phone. Does anyone else have anything similiar? 
+
+The reason why I dont think its the app is because this also happens during phone calls as well. Is this a defect with the volume on 4a 5g?

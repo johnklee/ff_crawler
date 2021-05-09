@@ -1,0 +1,9 @@
+https://www.reddit.com/r/GooglePixel/comments/n6w4lg/screen_cast_warningnotification/
+
+Screen cast warning/notification
+
+Does anybody know how to get rid of the warning/notification when you're just about start casting from a pixel 5?
+
+It's the one that tells you your device will have access to everything on the screen
+
+I mean it's pretty damn obvious that if you cast your screen to another device its going to see what's on your screen.. literally the whole point of screen cast but Google feels the need to have to advise us of this?

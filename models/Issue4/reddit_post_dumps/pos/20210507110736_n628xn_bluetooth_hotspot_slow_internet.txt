@@ -1,0 +1,5 @@
+https://www.reddit.com/r/GooglePixel/comments/n628xn/bluetooth_hotspot_slow_internet/
+
+Bluetooth + hotspot == slow internet
+
+So I have noticed that often times when I use bluetooth simultaneously while creating a hotspot, the internet speed is really slow when connecting to it. I don't even have to pair bluetooth with anything, it just needs to be turned on. Anyone else encountered this?

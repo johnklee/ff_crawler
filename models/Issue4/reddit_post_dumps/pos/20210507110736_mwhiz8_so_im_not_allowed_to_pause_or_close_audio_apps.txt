@@ -1,0 +1,9 @@
+https://www.reddit.com/r/GooglePixel/comments/mwhiz8/so_im_not_allowed_to_pause_or_close_audio_apps/
+
+So I'm not allowed to pause or close audio apps when bluetooth is connected?
+
+Seems to be universal with all audio apps but once I start listening over bluetooth I can't pause or close the app without it automatically resuming play immediately or reopening and resuming play. Disconnecting the bluetooth momentarily also does not work.
+
+Only fix has been restarting the entire phone while on car rides.
+
+Looking for a setting or something to just make it do what I'm telling it to do.

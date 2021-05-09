@@ -1,0 +1,17 @@
+https://www.reddit.com/r/GooglePixel/comments/mzpxz3/interesting_issue_alexa_find_my_phone_does_not/
+
+Interesting issue: "Alexa find my phone DOES NOT WORK WITH CALL SCREENING ON!"
+
+Just what it says. Your phone won't make a single noise. 
+
+I would have thought any engineer worth his salary would have figured this out in Beta and done something about it.
+
+So, to screen or not to screen, that is the question.
+
+I am leaning towards not screening since the rather long script begins with a Google advertisement.
+
+Now this. 
+
+Definitely finding issues with new "features" as we go along.
+
+Oh and lens! Can anybody tell me why lens can only integrate one recognized feature at a time rather than looking at a gestalt of identifying marks to figure out what, say a car part, is?

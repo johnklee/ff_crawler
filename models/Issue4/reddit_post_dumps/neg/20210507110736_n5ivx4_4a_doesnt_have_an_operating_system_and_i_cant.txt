@@ -1,0 +1,7 @@
+https://www.reddit.com/r/GooglePixel/comments/n5ivx4/4a_doesnt_have_an_operating_system_and_i_cant/
+
+4a doesn't have an operating system, and I can't re-flash.
+
+I tried flashing the Android 12 OTA on my carrier unlocked Pixel 4a running Android 11 - it failed, and now my phone says "can't find valid operating system." Unfortunately, I can't flash android, because my bootloader is locked. And I can't unlock my bootloader, because I didn't enable OEM Unlocking in settings, which I definitely can't do now. Is there anything I can do to fix this, or do I have to use the Best Buy warranty I bought with my phone?
+
+Edit: Both recovery and rescue mode give the same error of not having a valid os, and are thus unusable to my knowledge.

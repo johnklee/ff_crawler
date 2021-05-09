@@ -1,0 +1,9 @@
+https://www.reddit.com/r/GooglePixel/comments/n6yglk/my_pixel_4_keeps_rebooting/
+
+My pixel 4 keeps rebooting
+
+Since last night my pixel keeps rebooting. It's not a "hard" reboot because it only takes like 3 seconds to take me back. I already tried running on safe mode and deleted cache from some apps, but keeps happening. I suspect the problem was that yesterday I was trying to "create a link" to upload a heavy video, but ended up not doing it, so it suspect it might have to do with google drive (which I forced to stop), but it could as well be something else. My software is up to date.
+
+&#x200B;
+
+Any suggestions on how to resolve this?

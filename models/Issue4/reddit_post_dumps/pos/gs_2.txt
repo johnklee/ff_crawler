@@ -1,0 +1,5 @@
+https://www.reddit.com/r/GooglePixel/comments/lgofla/pixel_4a_5g_bluetooth_issues/	
+
+Pixel 4a 5g Bluetooth issues
+
+I have been having issues with Bluetooth connectivity with the new pixel 4a 5g. 1st it started with my Fitbit where the app would occasionally not find the device and I would need to forget and add the Fitbit again. More recently it has issues where the Bluetooth connection to car audio or wireless earphones keeps dropping whenever I switch between apps like spotify and Google maps or podcasts and Strava. Anyone else experience this issue? Any recommendations on how to fix this

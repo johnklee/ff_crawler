@@ -1,0 +1,7 @@
+https://support.google.com/pixelphone/thread/6339001/i-am-having-issues-with-bluetooth-connections-dropping-on-my-pixel-3a?hl=en
+
+I am having issues with Bluetooth connections dropping on my Pixel 3a.
+
+My connection to both my JVC head unit and a Targus Bluetooth speaker drop after a few minutes. In addition, neither device will auto-connect when powered up. I've used these devices with my 1st Gen Pixel and other Android phones over the years.
+
+I believe it's a firmware or software bug on the 3a. Any ideas?

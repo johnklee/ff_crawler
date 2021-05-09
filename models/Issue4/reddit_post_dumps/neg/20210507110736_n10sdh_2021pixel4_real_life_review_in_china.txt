@@ -1,0 +1,19 @@
+https://www.reddit.com/r/GooglePixel/comments/n10sdh/2021pixel4_real_life_review_in_china/
+
+2021,Pixel4 real life review in China
+
+  Hello，everyone. First,I want to introduce myself.I am a university student in China.I am a native Chinese.
+  I got my Pixel 4 about one month later after the college entrance examination last year. It cost me about ¥3400 ($527.63).I chose the white,64GB version.
+  The phone is very nice.Unlike the rom made by Chinese brands-----it is very clean,no ads,no useless features,no limitions from manufacturers.For example,Huawei,a brand like shit,has lots of ads and useless software in its system,and it doesn't allow you to unlock the bootloader.Xiaomi,the brand which is loved by most Chinese people, also has ads in system.But it allows you to unlock the bootloader.
+  As we all know, Chinese government has Internet censorship.We can't access some famous websites, such as  Google, Facebook,Pxxnhub,Twitter, Tumbler, Instagram,Youtube and the most important, Reddit.
+  Using VPNs in seems illegal in China,but seldom can you hear that someone is under arrest because using VPN.
+  Searching 'VPN' in Baidu or other China-based searching engine,you can't get the right results.
+  Most VPN services available in China are providing gaming net speed boost service.
+  The right searching key word is'加速器',which is 'speed booster' in English.
+  To improve my experience using the phone,I got VPN too.They are free of charge.😆
+  Let's talk about the phone software and features.Soli rader (Motion Sense) is not available in China.But I enable it using Magisk module.(I am going against the law, someone please call the cops!😂)
+  Some softwares made by Chinese companys don't obey the rules made by Android.They try to start in the background.To save my 2800 battery,I have to freeze them using 3rd softwares.Some software can also ask for authority they do not need.Such as phone,camera, microphone,to track you and finally sell your personal information push ads to you.
+  For the mobile carriers my user experience is very bad.There are three mobile carriers in China.They are Unicom, Telecom and Mobile.
+  Telecom is not originally supported by Pixel.Mobile has almost the best signal(Telecom is the best),but is difficult to use VPN on it.Unicom has original support,is easy to use VPN on it.But most importantly, Unicorn has the worst signal.(At least in my university 😂)
+  After using it for several months,I found  its back partly removed from the phone so I bought some glue to fix it.Now it has become normal.I'm still using it(on Android 12 DP3).No matter what phone I would use in the future,I won't forget it.My first phone, Google Pixel 4.
+  Thank you, Google!

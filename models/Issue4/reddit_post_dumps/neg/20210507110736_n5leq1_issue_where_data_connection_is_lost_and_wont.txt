@@ -1,0 +1,5 @@
+https://www.reddit.com/r/GooglePixel/comments/n5leq1/issue_where_data_connection_is_lost_and_wont/
+
+Issue where data connection is lost and won't reconnect.
+
+Anyone have the issue where they randomly lose their data connection (but still have things like sms and calling) and have to restart their phone in order to regain access?

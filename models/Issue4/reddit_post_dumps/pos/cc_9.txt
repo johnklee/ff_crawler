@@ -1,0 +1,22 @@
+https://www.discosportforums.co.uk/viewtopic.php?t=9724
+
+Bluetooth issues with Google Pixel (2, 2XL, 3, and 3XL)
+
+Hello,
+
+My wife's 2018 Disco Sport (details in my signature) has been having Bluetooth connectivity issues with both of our phones ever since we bought it, mid-2018. We both have Google Pixel phones. Last year we had the Pixel 2 and 2XL. Currently, we have the Google Pixel 3 and 3XL. Identical Bluetooth issues exist with both.
+
+The issue:
+-- Phone pairs just fine and is connected.
+-- When you are on a call or streaming BT audio (and even if you're not), every 30-60 seconds the connection disconnects randomly.
+-- So much so that the Bluetooth option itself (in the car's settings) becomes unchecked (phone just shows as nothing connected on BT) and then reappears after 4-8 seconds, at which point the car reconnects to the phone.
+-- This happens continuously on my phone and my wife's.
+-- We have tried everything, from factory resetting the car to our phones to getting any available software updates from the dealership. Nothing has helped.
+
+I have a 2016 Tesla Model-S and both our phones work flawlessly with it over Bluetooth. My wife came to the Disco Sport from a 2015 Nissan Rogue and both our phones had worked flawlessly with that vehicle as well.
+
+We've taken the vehicle in to our local LR/Jaguar dealership. This last time, they appeared to have done multiple software upgrades. The ironic thing is, that they gave us a Jaguar XE loaner that our phones ALSO had Bluetooth issues with (in the same exact way!). So clearly this is an issue with the Google Pixel phones and the Landrover/Jaguar infotainment system itself (and not just our vehicle specifically).
+
+By the way, even after the software upgrades the dealership did, our phones continue to have the very same Bluetooth issues still.
+
+Anyone else having these issues? Have you found a solution or a workaround yet?

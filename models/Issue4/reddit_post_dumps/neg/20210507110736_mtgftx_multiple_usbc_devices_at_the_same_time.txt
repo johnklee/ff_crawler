@@ -1,0 +1,11 @@
+https://www.reddit.com/r/GooglePixel/comments/mtgftx/multiple_usbc_devices_at_the_same_time/
+
+Multiple usb-c devices at the same time?
+
+I haven't been able to find an answer to these questions.
+
+First, can you connect two or more usb-c devices to the Pixel at the same time? (Such as a separate camera and microphone)
+
+Secondly, could you do this while an external battery pack is connected? I'm thinking of using a usb hub and having a battery pack and a camera/microphone connected to the phone.
+
+I'm thinking of streaming on the go and would like to use my Pixel 5. I would rather use devices that are connected directly rather than bluetooth. I'm just not sure if I can do what I want to.

@@ -1,0 +1,11 @@
+https://www.reddit.com/r/GooglePixel/comments/n5km2c/how_do_i_turn_off_reminders_that_i_have_an_unread/
+
+How do I turn off reminders that I have an unread text?
+
+My Pixel 5 gives me a notification (sound, vibrate and pop up) when I receive a new text - that's fine.
+
+But then every couple hours, if I haven't opened up the text, it will give me ANOTHER notification as if I received the text for the first time. Super confusing.
+
+Also, when I go and open the messages app, it will give me a text notification about the unread texts AGAIN! 
+
+Anyone know how to turn these extra notifications off? I only want to receive the text notification one time, when I first receive the text. If I don't have time to respond, I avoid reading new texts right away.

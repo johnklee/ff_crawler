@@ -1,0 +1,35 @@
+https://www.reddit.com/r/GooglePixel/comments/n2fcrt/battery_megathread_may_2021/
+
+Battery Megathread (May 2021)
+
+Welcome to the Battery Megathread, where you can find information and get assistance with any battery-related issues your Pixel might be facing. *All battery-related posts made outside this megathread will be removed.*
+
+Before you make a comment, try these troubleshooting tips:
+
+###Stay up to date with the latest version of Android and your apps.
+Although some people may argue that a system update ruined their battery life (and occasionally this is the cause), it's always a good idea to make sure you device is running the latest version of Android (check anytime in Settings > System > Advanced > System update > Check for update). Security patches and major updates bring fixes not only for battery-draining bugs, but also protection against viruses and malware that may be stealing your charge, or worse. Individual app updates may also provide performance improvements to your battery.
+
+###Check for power-hungry apps.
+Despite battery-saving features like [Doze](https://developer.android.com/training/monitoring-device-state/doze-standby.html), some apps may still be able to drain away your charge undetected. Try the following steps to identify any power-hungry apps.
+
+* Make sure that the "Apps consuming battery" notification is enabled, and wait a few minutes to see if it appears. (Find the toggle in Settings > Apps & notifications > See all ___ apps > More options (the triple dot) > Show system > Android system > Notifications > Other)
+* Check the battery usage of your apps in Settings > Battery > More options (the triple dot) > Battery usage. Remember that battery life may be reduced with usage of certain features (location, Bluetooth, etc.) and apps (gaming, video, etc.).
+* Turn on battery optimizations for all apps, (Under Settings > Apps & notifications > Advanced > Special app access > Battery optimization, and tap each app to change it to *Optimize*), and also enable Adaptive Battery, which limits rarely used apps (Under Settings > Battery > Adaptive Battery).
+* Force stop or uninstall any new apps and monitor battery life. (You can do this by going into Settings > search for *appName* & select *appName*)
+* Temporarily disable all installed apps with Safe Mode, to see if an existing/updated app is the problem. (Enter Safe Mode by pressing & holding the power button, and then pressing and holding *Restart*, and finally tapping OK. To exit Safe Mode, restart your phone as normal. You may have to sign into some apps again.) If your battery life improves, use the aforementioned methods on older apps.
+
+###Investigate battery intensive features.
+Some functions on you phone may use more power than you expect, especially in different scenarios. Take a look at this list for **a few** possibilities:
+
+* **Bluetooth** is notorious for its high-energy usage, especially when actively transferring data. Turn it off if it's not needed, and if you do, consider looking for Bluetooth Low Energy devices, which need much less power.
+* **Location** also uses quite a bit in order to pinpoint your position. Turn off Wifi/Cellular data/Bluetooth location accuracy (Settings > Security and Location > Location > Advanced > Battery saving > Google Location Accuracy) or turn Location off completely.
+* **Cellular** can also drain your battery when the signal is weak. At these times, more electricity is needed to stay connected, no matter if you're in the forest or underground. If you don't require a cellular connection (for example, if you have Wifi Calling), put your phone into Airplane mode and re-enable Wifi/Bluetooth if needed.
+
+###Contact Google Support.
+Google's dedicated Pixel support team may be able to help diagnose and fix your issue. Find them in Settings > Tips & Support, or just ask your Google Assistant "troubleshoot my battery".
+
+###IF ALL ELSE FAILS, factory reset your phone.
+Sometimes wiping your phone is all that's needed to bring your battery back to life. Google Drive and Google Photos do a decent job with keeping your apps and data (check in Settings > Google > Backup > Back up now **and check** Google Photos > sidebar (the three lines) > Settings > Backup and sync), but ***please personally make sure that everything is backed up to something off your phone.*** To wipe your phone, [follow the steps here.](https://support.google.com/pixelphone/answer/4596836)
+
+*This megathread will be replaced on the 1^st of each month at 10:00 UTC. If the month is wrong, [search for the latest one here](https://www.reddit.com/r/GooglePixel/search?q=Battery%20author%3AAutoModerator&restrict_sr=1&sort=new).*  
+*To return to the Superthread, [click here](https://reddit.com/r/GooglePixel/about/sticky?num=2).*

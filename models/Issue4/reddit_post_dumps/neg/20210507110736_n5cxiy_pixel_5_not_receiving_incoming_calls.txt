@@ -1,0 +1,13 @@
+https://www.reddit.com/r/GooglePixel/comments/n5cxiy/pixel_5_not_receiving_incoming_calls/
+
+Pixel 5 - not receiving incoming calls
+
+Hi everyone,
+
+Since yesterday I can´t receive incoming calls on my Pixel 5. Outgoing calls are no issue but whoever tries to call me only hears "not available".
+
+latest update did not change anything, also a factory reset did not help.
+
+Anyone with the same issue at the moment or ideas how to resolve this?
+
+best

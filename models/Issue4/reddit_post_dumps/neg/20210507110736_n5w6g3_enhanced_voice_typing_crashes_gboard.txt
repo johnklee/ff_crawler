@@ -1,0 +1,9 @@
+https://www.reddit.com/r/GooglePixel/comments/n5w6g3/enhanced_voice_typing_crashes_gboard/
+
+Enhanced voice typing crashes Gboard?
+
+[Is anybody else having this issue? ](https://streamable.com/dcsv3s)
+
+Enhanced voice typing is significantly better when it functions properly, but unfortunately it hasn't for the past several months. After the last issue where it insisted that something else was using the assistant microphone, it disappeared for a while and has now returned, but seems to crash Gboard very shortly after you finish talking, and if you hesitate when dictating, often in the middle of saying something.
+
+Anyone else having this issue or know of any fixes?

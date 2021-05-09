@@ -1,0 +1,5 @@
+https://www.reddit.com/r/GooglePixel/comments/n5gise/weather_info_on_lock_screen_and_aod/
+
+Weather info on lock screen and AOD
+
+I got a Pixel 4a a few weeks ago, absolutely love it. However, today all of a sudden temperature and a weather icon (sunny, cloudy etc.) started to appear on my lock screen and AOD, and it bugs me to hell that I can't find what triggered it, why it appears and how to access settings for it. I've seen some comments here and there that it's some kind of bug and it just turns on and off on its own sometimes... Is this true? Or is it coming from some app? I've looking in settings, notifications, Google app, Assistant, but couldn't find anything relevant... Can anyone please enlighten me on this? Thanks.

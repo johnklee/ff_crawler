@@ -1,0 +1,35 @@
+https://www.reddit.com/r/GooglePixel/comments/mtpifh/5g_not_working_after_updating/
+
+5G not working after updating
+
+I bought my phone 4 days ago and 5G worked on T-Mobile with the same SIM I got from them 2 years ago for my Pixel 3 just fine up until I went to install the backlog of updates that kept coming up. 
+
+At some point today there was an update marked for Feb or March, can't remember, and when that update finished, the 5G signal stopped working for data. It went to an icon with the x in it. 
+
+So I pressed on and got all the rest of the updates installed all the way up to the current patch RQ2A.210405.005
+
+5G still does not work for data. I can send standard SMS texts and receive calls, but data does not work. 
+
+So here's what I've done:
+
+1. Reboot phone a dozen times
+2. Toggle Airplane mode off and on and then reboot or toggle back on after a few minutes, lots of combinations
+3. Reset T-MOBILE APN twice
+4. Create a new APN for T-MOBILE using their APN settings provided on their support forums
+5. Reset all network settings (that includes bluetooth and everything else)
+6. Take SIM out and put back in
+7. Toggle between preferred network of LTE and 5G several dozen times
+
+Nothing is freaking working. 
+
+I do not understand how this could fine and solid for 72 hours and then I go to update my phone from one of the update prompts and it takes a shit on me. 
+
+It's seriously pissing me off.
+
+Update to anyone who finds this: the new SIM card worked! Turns out that the issue was caused by T-mobile going for NSA to SA (Stand-alone) 5G around the November to February mark as they upgraded their towers. The Google Pixel update marked for Feb. (That some users received earlier than that as it wasn't a smooth roll out since it had to be done with T-Mobile blessings) changed the phone's systems to target SA 5G as default and doesn't give you the option anywhere without using ADB to change that. 
+
+So if you're not getting 5G after a recent update from Jan-March time frame with T-Mobile make sure you have the new R15 SIM card!
+
+T-Mobile has a website page dedicated to getting people this new SIM card now because of the 5G Stand Alone changes. Some phones or people who have not fully updated their pixels will continue to work with NSA 5G (which isn't really 5G in some sense as it uses LTE bands to 'pretend' as 5G and is essentially not faster than LTE either)
+
+If you do have the new R15 SIM... Then check with T-Mobile first if there's something going on with your local towers (if they're even willing to cough up that info haha) or if your old plan was not setup yet to use 5G as some of my friends told me that even though they got the R15 SIM their old ONE plans or even older still didn't work until they contacted T-Mobile to get them to do their thing or change to the Magenta plans which cost the same but double your premium data allotment, so get on the Magenta plans if you can anyways to get the better benefits, as far as I know the only downside to Magenta is the Netflix offer changed so you may have to pay the difference to keep Netflix HD or something like that.

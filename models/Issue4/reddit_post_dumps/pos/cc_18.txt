@@ -1,0 +1,7 @@
+https://support.google.com/pixelphone/thread/97927379/bluetooth-not-working?hl=en
+
+Bluetooth not working
+
+I can't connect to my laptop Bluetooth via phone. I tried with other phone, it working perfectly with my laptop and can't connect cast (screen mirroring) to my laptop *native screen mirroring from Microsoft* also i tired with other phone works perfectly with my laptop.
+I check my laptop there is jo problem. 
+Whenever i try to connect it connect juat for 1 second or i guess like so and disconnected afterwords.
